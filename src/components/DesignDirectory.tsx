@@ -40,7 +40,7 @@ export function DesignDirectory({ categories, designs }: DesignDirectoryProps) {
             </p>
           </div>
           <a
-            href="https://github.com/Hermitxxx/designmd"
+            href="https://github.com/groveLqh/design-md"
             target="_blank"
             rel="noreferrer"
             className="inline-flex shrink-0 items-center gap-2 rounded-full border border-white/20 px-3 py-2 text-xs transition-colors hover:bg-white/10"
