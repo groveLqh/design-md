@@ -1,17 +1,19 @@
+import Link from "next/link";
 import type { DesignSystem } from "@/types/design";
 
 interface DesignCardProps {
   design: DesignSystem;
+  itemClassName?: string;
 }
 
 function designId(slug: string) {
   return slug.replace("/design/", "");
 }
 
-export function DesignCard({ design }: DesignCardProps) {
+export function DesignCard({ design, itemClassName }: DesignCardProps) {
   return (
-    <li>
-      <a
+    <li className={itemClassName}>
+      <Link
         href={design.slug}
         data-design={designId(design.slug)}
         className="design-card block h-full overflow-hidden border p-3 sm:p-3.5"
@@ -96,8 +98,7 @@ export function DesignCard({ design }: DesignCardProps) {
             {design.category.toLowerCase()}
           </span>
         </div>
-      </a>
+      </Link>
     </li>
   );
 }
-

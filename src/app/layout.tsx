@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Fira_Code, IBM_Plex_Sans, Inter } from "next/font/google";
+import { Fira_Code, IBM_Plex_Sans, Inter, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import "./design-themes.css";
 
@@ -20,6 +20,12 @@ const ibmPlexSans = IBM_Plex_Sans({
   weight: ["400", "500", "600", "700"],
 });
 
+const spaceGrotesk = Space_Grotesk({
+  variable: "--font-space-grotesk",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+});
+
 export const metadata: Metadata = {
   title: "DESIGN.md",
   description: "A directory of design systems for AI coding agents",
@@ -33,7 +39,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${firaCode.variable} ${inter.variable} ${ibmPlexSans.variable} h-full antialiased`}
+      className={`${firaCode.variable} ${inter.variable} ${ibmPlexSans.variable} ${spaceGrotesk.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
