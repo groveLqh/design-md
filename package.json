@@ -1,17 +1,17 @@
 {
-  "name": "ai-website-clone-template",
+  "name": "design-md",
   "version": "0.3.1",
   "private": true,
-  "description": "Clone any website into a clean, modern Next.js codebase using AI coding agents",
-  "author": "JCodesMore",
+  "description": "A DESIGN.md directory for reusable AI coding agent design systems",
+  "author": "groveLqh",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template.git"
+    "url": "https://github.com/groveLqh/design-md.git"
   },
-  "homepage": "https://github.com/JCodesMore/ai-website-cloner-template",
+  "homepage": "https://design-md-phi.vercel.app",
   "bugs": {
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template/issues"
+    "url": "https://github.com/groveLqh/design-md/issues"
   },
   "keywords": [
     "claude-code",
@@ -28,10 +28,12 @@
   },
   "scripts": {
     "dev": "next dev",
+    "add-design": "node scripts/add-design-md.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
+    "verify:data": "node scripts/verify-design-data.mjs",
     "check": "npm run lint && npm run typecheck && npm run build"
   },
   "dependencies": {

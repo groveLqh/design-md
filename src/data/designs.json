@@ -50,6 +50,7 @@
     "Reading",
     "Retail",
     "Retro",
+    "SaaS",
     "Sans",
     "Serif",
     "Social",
@@ -2869,6 +2870,24 @@
         "installText": "rgb(248, 241, 223)"
       },
       "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Context Dev",
+      "category": "SaaS",
+      "label": "CONTEXT DEV / UI",
+      "description": "A clean, high-trust SaaS landing page with airy spacing, soft blue gradients, and sharp black call-to-action contrast.",
+      "slug": "/design/saas--context-dev",
+      "colors": {
+        "background": "#F9FAFB",
+        "surface": "#FFFFFF",
+        "text": "#030712",
+        "muted": "#4B5563",
+        "accent": "#2563EB",
+        "border": "#E5E7EB",
+        "installText": "#FFFFFF"
+      },
+      "radius": "14px",
       "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
     }
   ]
