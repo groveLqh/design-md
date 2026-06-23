@@ -83,13 +83,7 @@ If `components.card` is present, those values win. Otherwise the script falls ba
 
 ## Friendly Link
 
-The header includes a `友情链接` link to the current created template:
-
-```txt
-#saas--context-dev
-```
-
-The target comes from the generated slug `/design/saas--context-dev`.
+- 友情链接: [Context Dev](https://design-md-phi.vercel.app/design/saas--context-dev)
 
 ## Development
 

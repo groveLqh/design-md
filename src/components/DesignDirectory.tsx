@@ -39,23 +39,15 @@ export function DesignDirectory({ categories, designs }: DesignDirectoryProps) {
               A directory of design systems for AI coding agents
             </p>
           </div>
-          <div className="flex shrink-0 items-center gap-2">
-            <a
-              href="#saas--context-dev"
-              className="inline-flex items-center rounded-full border border-white/20 px-3 py-2 text-xs transition-colors hover:bg-white/10"
-            >
-              友情链接
-            </a>
-            <a
-              href="https://github.com/groveLqh/design-md"
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center gap-2 rounded-full border border-white/20 px-3 py-2 text-xs transition-colors hover:bg-white/10"
-            >
-              <LogoIcon className="h-4 w-4 fill-current" />
-              <span>GitHub</span>
-            </a>
-          </div>
+          <a
+            href="https://github.com/groveLqh/design-md"
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex shrink-0 items-center gap-2 rounded-full border border-white/20 px-3 py-2 text-xs transition-colors hover:bg-white/10"
+          >
+            <LogoIcon className="h-4 w-4 fill-current" />
+            <span>GitHub</span>
+          </a>
         </div>
       </header>
 

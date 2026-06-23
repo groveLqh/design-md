@@ -14,7 +14,6 @@ export function DesignCard({ design, itemClassName }: DesignCardProps) {
   return (
     <li className={itemClassName}>
       <Link
-        id={designId(design.slug)}
         href={design.slug}
         data-design={designId(design.slug)}
         className="design-card block h-full overflow-hidden border p-3 sm:p-3.5"
