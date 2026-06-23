@@ -1,9 +1,9 @@
+import { DesignDirectory } from "@/components/DesignDirectory";
+import designsData from "@/data/designs.json";
+import type { DesignCatalog } from "@/types/design";
+
+const catalog = designsData as DesignCatalog;
+
 export default function Home() {
-  return (
-    <main className="flex min-h-screen items-center justify-center">
-      <p className="text-muted-foreground">
-        Clone target not yet built. Run <code className="font-mono text-foreground">/clone-website</code> to start.
-      </p>
-    </main>
-  );
+  return <DesignDirectory categories={catalog.categories} designs={catalog.designs} />;
 }

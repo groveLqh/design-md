@@ -1,0 +1,77 @@
+[
+  {
+    "text": "156/156",
+    "box": {
+      "x": 1357.59375,
+      "y": 97.25,
+      "w": 50.40625,
+      "h": 16
+    },
+    "styles": {
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "text": "←",
+    "box": {
+      "x": 32,
+      "y": 121.5,
+      "w": 28,
+      "h": 28
+    },
+    "styles": {
+      "fontSize": "11px",
+      "lineHeight": "11px",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "text": "All",
+    "box": {
+      "x": 68,
+      "y": 121.5,
+      "w": 47.6015625,
+      "h": 26
+    },
+    "styles": {
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "padding": "4px 12px",
+      "margin": "0px"
+    }
+  },
+  {
+    "text": "Architecture",
+    "box": {
+      "x": 123.6015625,
+      "y": 121.5,
+      "w": 112.40625,
+      "h": 26
+    },
+    "styles": {
+      "fontSize": "12px",
+      "lineHeight": "16px",
+      "padding": "4px 12px",
+      "margin": "0px"
+    }
+  },
+  {
+    "text": "→",
+    "box": {
+      "x": 1380,
+      "y": 121.5,
+      "w": 28,
+      "h": 28
+    },
+    "styles": {
+      "fontSize": "11px",
+      "lineHeight": "11px",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  }
+]

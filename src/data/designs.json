@@ -1,0 +1,2875 @@
+{
+  "categories": [
+    "All",
+    "Architecture",
+    "Audio",
+    "Automotive",
+    "Beauty",
+    "Bold",
+    "Brutalist",
+    "Calm",
+    "Cinema",
+    "Climate",
+    "Cool",
+    "Corporate",
+    "Craft",
+    "Culture",
+    "Dark",
+    "Dating",
+    "Editorial",
+    "Education",
+    "Esoteric",
+    "Fashion",
+    "Finance",
+    "Fitness",
+    "Food",
+    "Gameplay",
+    "Geometric",
+    "Government",
+    "Gradient Free",
+    "Healthcare",
+    "High Contrast",
+    "Hospitality",
+    "Kids",
+    "Lifestyle",
+    "Media",
+    "Minimal",
+    "Mono",
+    "Museum",
+    "Music",
+    "Nature",
+    "News",
+    "Nonprofit",
+    "Organic",
+    "Pet",
+    "Photography",
+    "Playful",
+    "Portfolio",
+    "Primary",
+    "Print",
+    "Reading",
+    "Retail",
+    "Retro",
+    "Sans",
+    "Serif",
+    "Social",
+    "Soft",
+    "Spiritual",
+    "Sports",
+    "Technical",
+    "Travel",
+    "Warm",
+    "Weather",
+    "Wellness"
+  ],
+  "designs": [
+    {
+      "name": "3D Sculpt",
+      "category": "Dark",
+      "label": "3D SCULPT / UI",
+      "description": "3D viewport: studio grey, mesh cyan, normal magenta.",
+      "slug": "/design/dark--3d-sculpt",
+      "colors": {
+        "background": "rgb(28, 28, 30)",
+        "surface": "rgb(37, 37, 39)",
+        "text": "rgb(232, 232, 230)",
+        "muted": "rgb(140, 139, 136)",
+        "accent": "rgb(0, 191, 207)",
+        "border": "rgb(140, 139, 136)",
+        "installText": "rgb(28, 28, 30)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "AI Labs",
+      "category": "Minimal",
+      "label": "AI LABS / UI",
+      "description": "Research-paper white, terminal-green prompts.",
+      "slug": "/design/minimal--ai-labs",
+      "colors": {
+        "background": "rgb(250, 250, 248)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 17, 18)",
+        "muted": "rgb(111, 116, 120)",
+        "accent": "rgb(0, 163, 108)",
+        "border": "rgb(111, 116, 120)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "5px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Airline Altitude",
+      "category": "Cool",
+      "label": "AIRLINE ALTITUDE / UI",
+      "description": "Boarding-pass minimal: sky grey, contrail teal.",
+      "slug": "/design/cool--airline-altitude",
+      "colors": {
+        "background": "rgb(239, 243, 246)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(21, 34, 45)",
+        "muted": "rgb(107, 120, 132)",
+        "accent": "rgb(0, 163, 180)",
+        "border": "rgb(107, 120, 132)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Airport Departures",
+      "category": "Mono",
+      "label": "AIRPORT DEPARTURES / UI",
+      "description": "Departure board: flap black, amber status, gate mono.",
+      "slug": "/design/mono--airport-departures",
+      "colors": {
+        "background": "rgb(13, 13, 13)",
+        "surface": "rgb(20, 20, 19)",
+        "text": "rgb(242, 181, 58)",
+        "muted": "rgb(142, 111, 37)",
+        "accent": "rgb(242, 242, 239)",
+        "border": "rgb(142, 111, 37)",
+        "installText": "rgb(13, 13, 13)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Analytics Crisp",
+      "category": "Minimal",
+      "label": "ANALYTICS CRISP / UI",
+      "description": "Analytics: crisp white, chart iris, chart peach.",
+      "slug": "/design/minimal--analytics-crisp",
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(18, 20, 24)",
+        "muted": "rgb(106, 111, 119)",
+        "accent": "rgb(90, 79, 224)",
+        "border": "rgb(106, 111, 119)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Aqua Mint",
+      "category": "Cool",
+      "label": "AQUA MINT / UI",
+      "description": "Seaglass, mint, chilled glass surfaces.",
+      "slug": "/design/cool--aqua-mint",
+      "colors": {
+        "background": "rgb(232, 247, 243)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 46, 44)",
+        "muted": "rgb(90, 130, 128)",
+        "accent": "rgb(45, 212, 191)",
+        "border": "rgb(90, 130, 128)",
+        "installText": "rgb(15, 46, 44)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Arcade Neon Pop",
+      "category": "Bold",
+      "label": "ARCADE NEON POP / UI",
+      "description": "Chunky buttons, rainbow XP bars, candy physics.",
+      "slug": "/design/bold--arcade-neon-pop",
+      "colors": {
+        "background": "rgb(255, 240, 246)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(26, 11, 60)",
+        "muted": "rgb(138, 124, 168)",
+        "accent": "rgb(255, 61, 165)",
+        "border": "rgb(138, 124, 168)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Architect Blueprint",
+      "category": "Architecture",
+      "label": "ARCHITECT BLUEPRINT / UI",
+      "description": "Drafting-table blue, tracing paper, pencil-line grid.",
+      "slug": "/design/architecture--architect-blueprint",
+      "colors": {
+        "background": "rgb(232, 237, 242)",
+        "surface": "rgb(246, 249, 252)",
+        "text": "rgb(13, 34, 52)",
+        "muted": "rgb(90, 117, 137)",
+        "accent": "rgb(46, 143, 196)",
+        "border": "rgb(90, 117, 137)",
+        "installText": "rgb(246, 249, 252)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Arctic",
+      "category": "Cool",
+      "label": "ARCTIC / UI",
+      "description": "Glacier white, ice blue, breath of steam.",
+      "slug": "/design/cool--arctic",
+      "colors": {
+        "background": "rgb(238, 244, 249)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(14, 26, 36)",
+        "muted": "rgb(98, 122, 139)",
+        "accent": "rgb(37, 99, 235)",
+        "border": "rgb(98, 122, 139)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Atelier Noir",
+      "category": "Fashion",
+      "label": "ATELIER NOIR / UI",
+      "description": "Fashion-week black, silk ivory, thin everything.",
+      "slug": "/design/fashion--atelier-noir",
+      "colors": {
+        "background": "rgb(242, 238, 229)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(17, 17, 16)",
+        "muted": "rgb(122, 118, 112)",
+        "accent": "rgb(140, 106, 63)",
+        "border": "rgb(122, 118, 112)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Bakery Flour",
+      "category": "Food",
+      "label": "BAKERY FLOUR / UI",
+      "description": "Artisan bakery: flour dust, rye, sourdough crust.",
+      "slug": "/design/food--bakery-flour",
+      "colors": {
+        "background": "rgb(245, 238, 220)",
+        "surface": "rgb(251, 246, 233)",
+        "text": "rgb(43, 30, 18)",
+        "muted": "rgb(155, 134, 112)",
+        "accent": "rgb(196, 106, 30)",
+        "border": "rgb(155, 134, 112)",
+        "installText": "rgb(251, 246, 233)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Barbershop Pole",
+      "category": "Bold",
+      "label": "BARBERSHOP POLE / UI",
+      "description": "Classic barbershop: stripe red, ivory lather, nickel.",
+      "slug": "/design/bold--barbershop-pole",
+      "colors": {
+        "background": "rgb(243, 236, 217)",
+        "surface": "rgb(251, 245, 226)",
+        "text": "rgb(21, 16, 13)",
+        "muted": "rgb(122, 110, 94)",
+        "accent": "rgb(184, 58, 58)",
+        "border": "rgb(122, 110, 94)",
+        "installText": "rgb(251, 245, 226)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Battle Royale",
+      "category": "Bold",
+      "label": "BATTLE ROYALE / UI",
+      "description": "Drop-in HUD: blood-orange alerts, squad chevrons.",
+      "slug": "/design/bold--battle-royale",
+      "colors": {
+        "background": "rgb(11, 12, 15)",
+        "surface": "rgb(20, 22, 25)",
+        "text": "rgb(242, 242, 240)",
+        "muted": "rgb(122, 126, 133)",
+        "accent": "rgb(255, 90, 31)",
+        "border": "rgb(122, 126, 133)",
+        "installText": "rgb(11, 12, 15)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Bauhaus",
+      "category": "Bold",
+      "label": "BAUHAUS / UI",
+      "description": "Primary red, primary yellow, primary blue.",
+      "slug": "/design/bold--bauhaus",
+      "colors": {
+        "background": "rgb(244, 239, 228)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(18, 18, 18)",
+        "muted": "rgb(88, 88, 88)",
+        "accent": "rgb(229, 57, 53)",
+        "border": "rgb(88, 88, 88)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Botanical",
+      "category": "Organic",
+      "label": "BOTANICAL / UI",
+      "description": "Pressed leaves, tea-stained paper, a copper ink.",
+      "slug": "/design/organic--botanical",
+      "colors": {
+        "background": "rgb(240, 234, 214)",
+        "surface": "rgb(247, 241, 220)",
+        "text": "rgb(42, 58, 31)",
+        "muted": "rgb(125, 128, 100)",
+        "accent": "rgb(181, 106, 63)",
+        "border": "rgb(125, 128, 100)",
+        "installText": "rgb(247, 241, 220)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Botanical Apothecary",
+      "category": "Beauty",
+      "label": "BOTANICAL APOTHECARY / UI",
+      "description": "Herb apothecary: amber bottle, linen label, eucalyptus.",
+      "slug": "/design/beauty--botanical-apothecary",
+      "colors": {
+        "background": "rgb(241, 234, 221)",
+        "surface": "rgb(249, 243, 229)",
+        "text": "rgb(34, 32, 27)",
+        "muted": "rgb(122, 114, 100)",
+        "accent": "rgb(90, 116, 82)",
+        "border": "rgb(122, 114, 100)",
+        "installText": "rgb(249, 243, 229)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Broadsheet 01",
+      "category": "Editorial",
+      "label": "BROADSHEET 01 / UI",
+      "description": "Newsprint ink, column rules, masthead gravitas.",
+      "slug": "/design/editorial--broadsheet-01",
+      "colors": {
+        "background": "rgb(251, 249, 242)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 15, 14)",
+        "muted": "rgb(94, 90, 84)",
+        "accent": "rgb(178, 31, 31)",
+        "border": "rgb(94, 90, 84)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Brutalist Office",
+      "category": "Brutalist",
+      "label": "BRUTALIST OFFICE / UI",
+      "description": "Concrete, grids, and a single warning-yellow.",
+      "slug": "/design/brutalist--brutalist-office",
+      "colors": {
+        "background": "rgb(232, 230, 225)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(10, 10, 10)",
+        "muted": "rgb(75, 75, 75)",
+        "accent": "rgb(232, 255, 0)",
+        "border": "rgb(75, 75, 75)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Cafe Racer",
+      "category": "Automotive",
+      "label": "CAFE RACER / UI",
+      "description": "Cafe-racer: engine black, tank stripe, chrome spoke.",
+      "slug": "/design/automotive--cafe-racer",
+      "colors": {
+        "background": "rgb(11, 11, 12)",
+        "surface": "rgb(20, 20, 21)",
+        "text": "rgb(232, 228, 219)",
+        "muted": "rgb(155, 150, 140)",
+        "accent": "rgb(196, 46, 46)",
+        "border": "rgb(155, 150, 140)",
+        "installText": "rgb(232, 228, 219)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Campaign Rally",
+      "category": "Bold",
+      "label": "CAMPAIGN RALLY / UI",
+      "description": "Campaign signage: stars blue, bunting red, placard white.",
+      "slug": "/design/bold--campaign-rally",
+      "colors": {
+        "background": "rgb(244, 245, 248)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(11, 31, 68)",
+        "muted": "rgb(91, 108, 138)",
+        "accent": "rgb(194, 36, 52)",
+        "border": "rgb(91, 108, 138)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Campus Collegiate",
+      "category": "Bold",
+      "label": "CAMPUS COLLEGIATE / UI",
+      "description": "Ivy-league collegiate: maroon, oatmeal, crest gold.",
+      "slug": "/design/bold--campus-collegiate",
+      "colors": {
+        "background": "rgb(241, 234, 223)",
+        "surface": "rgb(251, 244, 231)",
+        "text": "rgb(46, 13, 18)",
+        "muted": "rgb(138, 110, 115)",
+        "accent": "rgb(184, 132, 44)",
+        "border": "rgb(138, 110, 115)",
+        "installText": "rgb(251, 244, 231)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Candy Shop",
+      "category": "Bold",
+      "label": "CANDY SHOP / UI",
+      "description": "Bubble gum, cherry red, sugar rush.",
+      "slug": "/design/bold--candy-shop",
+      "colors": {
+        "background": "rgb(255, 233, 242)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(60, 13, 40)",
+        "muted": "rgb(178, 87, 140)",
+        "accent": "rgb(255, 45, 110)",
+        "border": "rgb(178, 87, 140)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "24px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Candy Tap",
+      "category": "Gameplay",
+      "label": "CANDY TAP / UI",
+      "description": "Soft gradients, chewy taps, confetti everywhere.",
+      "slug": "/design/gameplay--candy-tap",
+      "colors": {
+        "background": "rgb(255, 245, 251)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(58, 31, 92)",
+        "muted": "rgb(183, 148, 214)",
+        "accent": "rgb(255, 90, 173)",
+        "border": "rgb(183, 148, 214)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "20px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Ceramics Kiln",
+      "category": "Craft",
+      "label": "CERAMICS KILN / UI",
+      "description": "Wood-fired ceramics: clay beige, ash grey, iron glaze.",
+      "slug": "/design/craft--ceramics-kiln",
+      "colors": {
+        "background": "rgb(234, 221, 200)",
+        "surface": "rgb(243, 231, 209)",
+        "text": "rgb(30, 23, 17)",
+        "muted": "rgb(126, 116, 102)",
+        "accent": "rgb(168, 68, 42)",
+        "border": "rgb(126, 116, 102)",
+        "installText": "rgb(243, 231, 209)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Chapel Stained",
+      "category": "Dark",
+      "label": "CHAPEL STAINED / UI",
+      "description": "Chapel hymnal: stained-glass blue, gilt, parchment.",
+      "slug": "/design/dark--chapel-stained",
+      "colors": {
+        "background": "rgb(15, 30, 74)",
+        "surface": "rgb(21, 38, 88)",
+        "text": "rgb(243, 233, 204)",
+        "muted": "rgb(168, 148, 120)",
+        "accent": "rgb(226, 180, 76)",
+        "border": "rgb(168, 148, 120)",
+        "installText": "rgb(243, 233, 204)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Chat App Plum",
+      "category": "Playful",
+      "label": "CHAT APP PLUM / UI",
+      "description": "Messaging: plum bubbles, chat-pop, read receipts.",
+      "slug": "/design/playful--chat-app-plum",
+      "colors": {
+        "background": "rgb(244, 239, 250)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(35, 19, 46)",
+        "muted": "rgb(134, 114, 160)",
+        "accent": "rgb(123, 68, 199)",
+        "border": "rgb(134, 114, 160)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Civic Register",
+      "category": "Government",
+      "label": "CIVIC REGISTER / UI",
+      "description": "Civic site: gov navy, paper beige, official serif.",
+      "slug": "/design/government--civic-register",
+      "colors": {
+        "background": "rgb(242, 239, 230)",
+        "surface": "rgb(251, 248, 240)",
+        "text": "rgb(10, 37, 64)",
+        "muted": "rgb(91, 110, 129)",
+        "accent": "rgb(185, 29, 29)",
+        "border": "rgb(91, 110, 129)",
+        "installText": "rgb(251, 248, 240)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Classroom Paper",
+      "category": "Education",
+      "label": "CLASSROOM PAPER / UI",
+      "description": "Composition notebook, red-line margin, graphite.",
+      "slug": "/design/education--classroom-paper",
+      "colors": {
+        "background": "rgb(247, 241, 227)",
+        "surface": "rgb(255, 251, 239)",
+        "text": "rgb(34, 32, 29)",
+        "muted": "rgb(123, 118, 109)",
+        "accent": "rgb(196, 37, 28)",
+        "border": "rgb(123, 118, 109)",
+        "installText": "rgb(255, 251, 239)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Climate Atlas",
+      "category": "Climate",
+      "label": "CLIMATE ATLAS / UI",
+      "description": "Climate data: chart green, heatmap amber, atlas paper.",
+      "slug": "/design/climate--climate-atlas",
+      "colors": {
+        "background": "rgb(240, 234, 220)",
+        "surface": "rgb(249, 244, 230)",
+        "text": "rgb(20, 32, 24)",
+        "muted": "rgb(98, 114, 102)",
+        "accent": "rgb(224, 154, 62)",
+        "border": "rgb(98, 114, 102)",
+        "installText": "rgb(249, 244, 230)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Clinic Sage",
+      "category": "Calm",
+      "label": "CLINIC SAGE / UI",
+      "description": "Clinical calm. Sage greens, paper white, zero alarm.",
+      "slug": "/design/calm--clinic-sage",
+      "colors": {
+        "background": "rgb(244, 247, 244)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(27, 58, 46)",
+        "muted": "rgb(122, 143, 133)",
+        "accent": "rgb(78, 139, 106)",
+        "border": "rgb(122, 143, 133)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Clinical",
+      "category": "Cool",
+      "label": "CLINICAL / UI",
+      "description": "Hospital-grade legibility, but warm.",
+      "slug": "/design/cool--clinical",
+      "colors": {
+        "background": "rgb(241, 245, 247)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 42, 59)",
+        "muted": "rgb(79, 107, 124)",
+        "accent": "rgb(14, 159, 142)",
+        "border": "rgb(79, 107, 124)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Cobalt Product",
+      "category": "Cool",
+      "label": "COBALT PRODUCT / UI",
+      "description": "A shippable SaaS palette with spine.",
+      "slug": "/design/cool--cobalt-product",
+      "colors": {
+        "background": "rgb(249, 250, 251)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(17, 24, 39)",
+        "muted": "rgb(107, 114, 128)",
+        "accent": "rgb(37, 99, 235)",
+        "border": "rgb(107, 114, 128)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Coffee Roast",
+      "category": "Food",
+      "label": "COFFEE ROAST / UI",
+      "description": "Third-wave roaster: espresso brown, kraft paper, latte.",
+      "slug": "/design/food--coffee-roast",
+      "colors": {
+        "background": "rgb(235, 224, 206)",
+        "surface": "rgb(247, 238, 220)",
+        "text": "rgb(43, 24, 16)",
+        "muted": "rgb(138, 114, 96)",
+        "accent": "rgb(217, 119, 66)",
+        "border": "rgb(138, 114, 96)",
+        "installText": "rgb(247, 238, 220)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Comic Ink",
+      "category": "Bold",
+      "label": "COMIC INK / UI",
+      "description": "Comic panel: pulp yellow, hero red, ink-black panel rules.",
+      "slug": "/design/bold--comic-ink",
+      "colors": {
+        "background": "rgb(243, 215, 102)",
+        "surface": "rgb(251, 229, 128)",
+        "text": "rgb(20, 14, 10)",
+        "muted": "rgb(142, 122, 88)",
+        "accent": "rgb(232, 36, 44)",
+        "border": "rgb(142, 122, 88)",
+        "installText": "rgb(20, 14, 10)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Concrete Lemon",
+      "category": "Bold",
+      "label": "CONCRETE LEMON / UI",
+      "description": "Raw concrete, structural grid, lemon accent.",
+      "slug": "/design/bold--concrete-lemon",
+      "colors": {
+        "background": "rgb(217, 214, 208)",
+        "surface": "rgb(240, 237, 230)",
+        "text": "rgb(26, 26, 26)",
+        "muted": "rgb(107, 107, 107)",
+        "accent": "rgb(212, 225, 87)",
+        "border": "rgb(107, 107, 107)",
+        "installText": "rgb(26, 26, 26)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Coworking Loft",
+      "category": "Architecture",
+      "label": "COWORKING LOFT / UI",
+      "description": "Loft coworking: warm concrete, mustard, exposed brick.",
+      "slug": "/design/architecture--coworking-loft",
+      "colors": {
+        "background": "rgb(239, 233, 221)",
+        "surface": "rgb(248, 242, 230)",
+        "text": "rgb(28, 26, 22)",
+        "muted": "rgb(126, 122, 112)",
+        "accent": "rgb(217, 160, 44)",
+        "border": "rgb(126, 122, 112)",
+        "installText": "rgb(248, 242, 230)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Criterion Letterbox",
+      "category": "Cinema",
+      "label": "CRITERION LETTERBOX / UI",
+      "description": "Arthouse film label: cream sleeve, spine red, 4:3 crops.",
+      "slug": "/design/cinema--criterion-letterbox",
+      "colors": {
+        "background": "rgb(239, 232, 216)",
+        "surface": "rgb(248, 241, 225)",
+        "text": "rgb(20, 18, 16)",
+        "muted": "rgb(110, 106, 96)",
+        "accent": "rgb(166, 38, 43)",
+        "border": "rgb(110, 106, 96)",
+        "installText": "rgb(248, 241, 225)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Crypto Violet",
+      "category": "Bold",
+      "label": "CRYPTO VIOLET / UI",
+      "description": "Web3 violet: holo gradients, mono addresses.",
+      "slug": "/design/bold--crypto-violet",
+      "colors": {
+        "background": "rgb(18, 10, 36)",
+        "surface": "rgb(26, 17, 56)",
+        "text": "rgb(236, 228, 255)",
+        "muted": "rgb(143, 133, 184)",
+        "accent": "rgb(155, 92, 246)",
+        "border": "rgb(143, 133, 184)",
+        "installText": "rgb(18, 10, 36)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Cyber Matrix",
+      "category": "Bold",
+      "label": "CYBER MATRIX / UI",
+      "description": "Cyberpunk neon grid meets operator terminal.",
+      "slug": "/design/bold--cyber-matrix",
+      "colors": {
+        "background": "rgb(7, 10, 18)",
+        "surface": "rgb(14, 19, 31)",
+        "text": "rgb(232, 253, 255)",
+        "muted": "rgb(123, 211, 224)",
+        "accent": "rgb(255, 42, 154)",
+        "border": "rgb(123, 211, 224)",
+        "installText": "rgb(7, 10, 18)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Cyberpunk City",
+      "category": "Bold",
+      "label": "CYBERPUNK CITY / UI",
+      "description": "Neon signage, acid yellow, deep violet.",
+      "slug": "/design/bold--cyberpunk-city",
+      "colors": {
+        "background": "rgb(17, 10, 36)",
+        "surface": "rgb(27, 18, 54)",
+        "text": "rgb(248, 247, 255)",
+        "muted": "rgb(142, 138, 196)",
+        "accent": "rgb(240, 255, 0)",
+        "border": "rgb(142, 138, 196)",
+        "installText": "rgb(17, 10, 36)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Dating Blush",
+      "category": "Dating",
+      "label": "DATING BLUSH / UI",
+      "description": "Dating app: blush cream, lipstick red, flirty serif.",
+      "slug": "/design/dating--dating-blush",
+      "colors": {
+        "background": "rgb(251, 237, 232)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(43, 16, 20)",
+        "muted": "rgb(147, 102, 104)",
+        "accent": "rgb(232, 75, 85)",
+        "border": "rgb(147, 102, 104)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "22px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "DAW Waveform",
+      "category": "Audio",
+      "label": "DAW WAVEFORM / UI",
+      "description": "Audio-production UI: waveform teal, signal red, rack black.",
+      "slug": "/design/audio--daw-waveform",
+      "colors": {
+        "background": "rgb(10, 14, 18)",
+        "surface": "rgb(17, 22, 28)",
+        "text": "rgb(229, 233, 236)",
+        "muted": "rgb(111, 124, 136)",
+        "accent": "rgb(61, 214, 181)",
+        "border": "rgb(111, 124, 136)",
+        "installText": "rgb(10, 14, 18)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "DeFi Chrome",
+      "category": "Bold",
+      "label": "DEFI CHROME / UI",
+      "description": "Trading-floor neon: emerald gains, bloody losses.",
+      "slug": "/design/bold--defi-chrome",
+      "colors": {
+        "background": "rgb(11, 14, 19)",
+        "surface": "rgb(20, 24, 32)",
+        "text": "rgb(240, 242, 245)",
+        "muted": "rgb(122, 134, 150)",
+        "accent": "rgb(0, 211, 149)",
+        "border": "rgb(122, 134, 150)",
+        "installText": "rgb(11, 14, 19)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Denim Workwear",
+      "category": "Bold",
+      "label": "DENIM WORKWEAR / UI",
+      "description": "Heritage workwear: selvedge indigo, rivet copper.",
+      "slug": "/design/bold--denim-workwear",
+      "colors": {
+        "background": "rgb(28, 43, 69)",
+        "surface": "rgb(36, 51, 81)",
+        "text": "rgb(246, 241, 231)",
+        "muted": "rgb(168, 152, 120)",
+        "accent": "rgb(201, 111, 46)",
+        "border": "rgb(168, 152, 120)",
+        "installText": "rgb(246, 241, 231)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Desert Rose",
+      "category": "Serif",
+      "label": "DESERT ROSE / UI",
+      "description": "Sandstone, dusty rose, sunburnt ink.",
+      "slug": "/design/serif--desert-rose",
+      "colors": {
+        "background": "rgb(245, 230, 216)",
+        "surface": "rgb(251, 241, 229)",
+        "text": "rgb(31, 20, 16)",
+        "muted": "rgb(158, 123, 110)",
+        "accent": "rgb(217, 123, 90)",
+        "border": "rgb(158, 123, 110)",
+        "installText": "rgb(251, 241, 229)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "DevOps Graphite",
+      "category": "Dark",
+      "label": "DEVOPS GRAPHITE / UI",
+      "description": "Prod-green, staging-amber, build-pipeline blue.",
+      "slug": "/design/dark--devops-graphite",
+      "colors": {
+        "background": "rgb(18, 20, 24)",
+        "surface": "rgb(26, 29, 34)",
+        "text": "rgb(232, 236, 241)",
+        "muted": "rgb(136, 147, 161)",
+        "accent": "rgb(62, 200, 147)",
+        "border": "rgb(136, 147, 161)",
+        "installText": "rgb(10, 11, 13)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Dispatch Mono",
+      "category": "Mono",
+      "label": "DISPATCH MONO / UI",
+      "description": "Independent-press monospace. Bulletin-board energy.",
+      "slug": "/design/mono--dispatch-mono",
+      "colors": {
+        "background": "rgb(246, 241, 231)",
+        "surface": "rgb(253, 249, 239)",
+        "text": "rgb(27, 23, 20)",
+        "muted": "rgb(113, 106, 98)",
+        "accent": "rgb(217, 84, 26)",
+        "border": "rgb(113, 106, 98)",
+        "installText": "rgb(253, 249, 239)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Dream Engine",
+      "category": "Dark",
+      "label": "DREAM ENGINE / UI",
+      "description": "Generative AI: obsidian surface, dream violet, seed amber.",
+      "slug": "/design/dark--midjourney-dream",
+      "colors": {
+        "background": "rgb(11, 10, 19)",
+        "surface": "rgb(21, 19, 31)",
+        "text": "rgb(241, 237, 249)",
+        "muted": "rgb(140, 135, 162)",
+        "accent": "rgb(193, 140, 255)",
+        "border": "rgb(140, 135, 162)",
+        "installText": "rgb(11, 10, 19)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "category": "Dark",
+      "label": "DUNGEON CRAWL / UI",
+      "description": "Torchlight, parchment, dice rolls in the dark.",
+      "slug": "/design/dark--dungeon-crawl",
+      "colors": {
+        "background": "rgb(26, 22, 18)",
+        "surface": "rgb(36, 30, 23)",
+        "text": "rgb(232, 220, 192)",
+        "muted": "rgb(138, 122, 94)",
+        "accent": "rgb(184, 58, 46)",
+        "border": "rgb(138, 122, 94)",
+        "installText": "rgb(232, 220, 192)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "EV Silver",
+      "category": "Automotive",
+      "label": "EV SILVER / UI",
+      "description": "Electric-vehicle showroom: liquid silver, voltage blue.",
+      "slug": "/design/automotive--ev-silver",
+      "colors": {
+        "background": "rgb(238, 241, 244)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(10, 15, 22)",
+        "muted": "rgb(108, 119, 136)",
+        "accent": "rgb(0, 150, 255)",
+        "border": "rgb(108, 119, 136)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Exchange Tick",
+      "category": "Dark",
+      "label": "EXCHANGE TICK / UI",
+      "description": "Order book green/red. Zero ornament. Every tick earns.",
+      "slug": "/design/dark--exchange-tick",
+      "colors": {
+        "background": "rgb(10, 13, 20)",
+        "surface": "rgb(17, 20, 29)",
+        "text": "rgb(230, 233, 239)",
+        "muted": "rgb(110, 119, 134)",
+        "accent": "rgb(38, 161, 123)",
+        "border": "rgb(110, 119, 134)",
+        "installText": "rgb(10, 13, 20)"
+      },
+      "radius": "3px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Farmers Market",
+      "category": "Food",
+      "label": "FARMERS MARKET / UI",
+      "description": "Chalkboard signs, crate wood, tomato red.",
+      "slug": "/design/food--farmers-market",
+      "colors": {
+        "background": "rgb(31, 42, 32)",
+        "surface": "rgb(42, 56, 43)",
+        "text": "rgb(245, 241, 222)",
+        "muted": "rgb(168, 156, 124)",
+        "accent": "rgb(219, 63, 58)",
+        "border": "rgb(168, 156, 124)",
+        "installText": "rgb(245, 241, 222)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Farmsim Harvest",
+      "category": "Gameplay",
+      "label": "FARMSIM HARVEST / UI",
+      "description": "Cozy farm sim: golden wheat, rosy blush, soft sky.",
+      "slug": "/design/gameplay--farmsim-harvest",
+      "colors": {
+        "background": "rgb(255, 243, 220)",
+        "surface": "rgb(255, 249, 234)",
+        "text": "rgb(61, 42, 22)",
+        "muted": "rgb(176, 150, 116)",
+        "accent": "rgb(230, 126, 92)",
+        "border": "rgb(176, 150, 116)",
+        "installText": "rgb(255, 249, 234)"
+      },
+      "radius": "16px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Festival Fluoro",
+      "category": "Bold",
+      "label": "FESTIVAL FLUORO / UI",
+      "description": "Open-air festival: sunset magenta, lime wash, neon type.",
+      "slug": "/design/bold--festival-fluoro",
+      "colors": {
+        "background": "rgb(218, 255, 76)",
+        "surface": "rgb(235, 255, 122)",
+        "text": "rgb(22, 8, 43)",
+        "muted": "rgb(122, 90, 163)",
+        "accent": "rgb(255, 45, 146)",
+        "border": "rgb(122, 90, 163)",
+        "installText": "rgb(22, 8, 43)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Field Notes",
+      "category": "Nature",
+      "label": "FIELD NOTES / UI",
+      "description": "Botanist's notebook: moss, bark, pressed leaves.",
+      "slug": "/design/nature--field-notes",
+      "colors": {
+        "background": "rgb(238, 233, 219)",
+        "surface": "rgb(248, 243, 227)",
+        "text": "rgb(31, 42, 26)",
+        "muted": "rgb(123, 132, 115)",
+        "accent": "rgb(107, 142, 61)",
+        "border": "rgb(123, 132, 115)",
+        "installText": "rgb(248, 243, 227)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Film Photography",
+      "category": "Mono",
+      "label": "FILM PHOTOGRAPHY / UI",
+      "description": "35mm grain: gelatin silver, kodak yellow, frame number.",
+      "slug": "/design/mono--film-photography",
+      "colors": {
+        "background": "rgb(238, 234, 224)",
+        "surface": "rgb(251, 247, 236)",
+        "text": "rgb(21, 20, 18)",
+        "muted": "rgb(119, 114, 104)",
+        "accent": "rgb(242, 201, 76)",
+        "border": "rgb(119, 114, 104)",
+        "installText": "rgb(21, 20, 18)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Florist Bouquet",
+      "category": "Retail",
+      "label": "FLORIST BOUQUET / UI",
+      "description": "Boutique florist: petal blush, stem green, kraft paper.",
+      "slug": "/design/retail--florist-bouquet",
+      "colors": {
+        "background": "rgb(240, 231, 214)",
+        "surface": "rgb(248, 238, 220)",
+        "text": "rgb(34, 29, 24)",
+        "muted": "rgb(139, 128, 112)",
+        "accent": "rgb(229, 139, 163)",
+        "border": "rgb(139, 128, 112)",
+        "installText": "rgb(248, 238, 220)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Forest Floor",
+      "category": "Organic",
+      "label": "FOREST FLOOR / UI",
+      "description": "Moss, bark, and a ribbon of copper.",
+      "slug": "/design/organic--forest-floor",
+      "colors": {
+        "background": "rgb(232, 226, 208)",
+        "surface": "rgb(245, 241, 228)",
+        "text": "rgb(31, 53, 41)",
+        "muted": "rgb(92, 107, 94)",
+        "accent": "rgb(201, 115, 58)",
+        "border": "rgb(92, 107, 94)",
+        "installText": "rgb(245, 241, 228)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Forest Trail",
+      "category": "Nature",
+      "label": "FOREST TRAIL / UI",
+      "description": "Trail-map forest: moss green, bark brown, trail red.",
+      "slug": "/design/nature--forest-trail",
+      "colors": {
+        "background": "rgb(238, 231, 214)",
+        "surface": "rgb(247, 241, 225)",
+        "text": "rgb(23, 37, 26)",
+        "muted": "rgb(109, 125, 101)",
+        "accent": "rgb(176, 61, 46)",
+        "border": "rgb(109, 125, 101)",
+        "installText": "rgb(247, 241, 225)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Forum Usenet",
+      "category": "Mono",
+      "label": "FORUM USENET / UI",
+      "description": "BBS nostalgia: teletype ink, PhpBB gridlines.",
+      "slug": "/design/mono--forum-usenet",
+      "colors": {
+        "background": "rgb(233, 230, 221)",
+        "surface": "rgb(244, 241, 232)",
+        "text": "rgb(19, 19, 19)",
+        "muted": "rgb(94, 94, 94)",
+        "accent": "rgb(26, 109, 175)",
+        "border": "rgb(94, 94, 94)",
+        "installText": "rgb(244, 241, 232)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Gallery Avant",
+      "category": "Fashion",
+      "label": "GALLERY AVANT / UI",
+      "description": "Contemporary-art gallery: white cube, tight caps.",
+      "slug": "/design/fashion--gallery-avant",
+      "colors": {
+        "background": "rgb(248, 248, 247)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(10, 10, 10)",
+        "muted": "rgb(122, 122, 122)",
+        "accent": "rgb(58, 58, 58)",
+        "border": "rgb(122, 122, 122)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Gallery White",
+      "category": "Minimal",
+      "label": "GALLERY WHITE / UI",
+      "description": "Contemporary gallery: nothing on the walls but art.",
+      "slug": "/design/minimal--gallery-white",
+      "colors": {
+        "background": "rgb(249, 249, 247)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(28, 28, 27)",
+        "muted": "rgb(143, 143, 141)",
+        "accent": "rgb(89, 89, 87)",
+        "border": "rgb(143, 143, 141)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Glassline",
+      "category": "Cool",
+      "label": "GLASSLINE / UI",
+      "description": "Fog-grey neutrals with a cobalt pinprick.",
+      "slug": "/design/cool--glassline",
+      "colors": {
+        "background": "rgb(241, 243, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 20, 25)",
+        "muted": "rgb(74, 85, 104)",
+        "accent": "rgb(44, 94, 245)",
+        "border": "rgb(74, 85, 104)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Graphite",
+      "category": "Dark",
+      "label": "GRAPHITE / UI",
+      "description": "Cool greys, one lime signal.",
+      "slug": "/design/dark--graphite",
+      "colors": {
+        "background": "rgb(14, 16, 19)",
+        "surface": "rgb(23, 25, 28)",
+        "text": "rgb(236, 237, 238)",
+        "muted": "rgb(156, 163, 175)",
+        "accent": "rgb(180, 255, 57)",
+        "border": "rgb(156, 163, 175)",
+        "installText": "rgb(14, 16, 19)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Gym Kettlebell",
+      "category": "Bold",
+      "label": "GYM KETTLEBELL / UI",
+      "description": "Barbell black: chalk white, rep red, rubber mat.",
+      "slug": "/design/bold--gym-kettlebell",
+      "colors": {
+        "background": "rgb(10, 10, 10)",
+        "surface": "rgb(20, 20, 20)",
+        "text": "rgb(245, 245, 243)",
+        "muted": "rgb(137, 134, 133)",
+        "accent": "rgb(230, 57, 70)",
+        "border": "rgb(137, 134, 133)",
+        "installText": "rgb(10, 10, 10)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Hackerspace",
+      "category": "Dark",
+      "label": "HACKERSPACE / UI",
+      "description": "Solder room: PCB green, header amber, silkscreen white.",
+      "slug": "/design/dark--hackerspace",
+      "colors": {
+        "background": "rgb(11, 24, 16)",
+        "surface": "rgb(18, 36, 26)",
+        "text": "rgb(233, 240, 219)",
+        "muted": "rgb(135, 152, 125)",
+        "accent": "rgb(242, 181, 58)",
+        "border": "rgb(135, 152, 125)",
+        "installText": "rgb(11, 24, 16)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Heritage",
+      "category": "Editorial",
+      "label": "HERITAGE / UI",
+      "description": "Architectural minimalism meets journalistic gravitas.",
+      "slug": "/design/editorial--heritage",
+      "colors": {
+        "background": "rgb(247, 245, 242)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(26, 28, 30)",
+        "muted": "rgb(108, 114, 120)",
+        "accent": "rgb(184, 66, 46)",
+        "border": "rgb(108, 114, 120)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Horology Chronograph",
+      "category": "Dark",
+      "label": "HOROLOGY CHRONOGRAPH / UI",
+      "description": "Swiss watchmaking: dial black, subdial silver, second red.",
+      "slug": "/design/dark--horology-chronograph",
+      "colors": {
+        "background": "rgb(12, 13, 16)",
+        "surface": "rgb(21, 22, 25)",
+        "text": "rgb(232, 230, 223)",
+        "muted": "rgb(140, 138, 130)",
+        "accent": "rgb(196, 42, 42)",
+        "border": "rgb(140, 138, 130)",
+        "installText": "rgb(232, 230, 223)"
+      },
+      "radius": "3px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Hotel Riviera",
+      "category": "Hospitality",
+      "label": "HOTEL RIVIERA / UI",
+      "description": "Côte d'Azur: sea-wash blue, sun-bleached sand, soft gold.",
+      "slug": "/design/hospitality--hotel-riviera",
+      "colors": {
+        "background": "rgb(242, 236, 224)",
+        "surface": "rgb(251, 247, 236)",
+        "text": "rgb(22, 44, 58)",
+        "muted": "rgb(123, 139, 151)",
+        "accent": "rgb(201, 161, 106)",
+        "border": "rgb(123, 139, 151)",
+        "installText": "rgb(251, 247, 236)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Indie Festival",
+      "category": "Bold",
+      "label": "INDIE FESTIVAL / UI",
+      "description": "Film-festival grid: mono schedule, spotlight orange.",
+      "slug": "/design/bold--indie-festival",
+      "colors": {
+        "background": "rgb(14, 13, 10)",
+        "surface": "rgb(22, 20, 16)",
+        "text": "rgb(232, 228, 219)",
+        "muted": "rgb(133, 127, 114)",
+        "accent": "rgb(255, 107, 26)",
+        "border": "rgb(133, 127, 114)",
+        "installText": "rgb(14, 13, 10)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "IoT Home",
+      "category": "Cool",
+      "label": "IOT HOME / UI",
+      "description": "Smart-home dashboard: warm dark, peach glow, cool teal.",
+      "slug": "/design/cool--iot-home",
+      "colors": {
+        "background": "rgb(23, 24, 27)",
+        "surface": "rgb(31, 32, 36)",
+        "text": "rgb(240, 239, 233)",
+        "muted": "rgb(138, 133, 122)",
+        "accent": "rgb(255, 185, 140)",
+        "border": "rgb(138, 133, 122)",
+        "installText": "rgb(23, 24, 27)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Jazz Club",
+      "category": "Dark",
+      "label": "JAZZ CLUB / UI",
+      "description": "Blue Note vibe: ink blue, cream, trumpet gold.",
+      "slug": "/design/dark--jazz-club",
+      "colors": {
+        "background": "rgb(15, 31, 61)",
+        "surface": "rgb(22, 39, 72)",
+        "text": "rgb(244, 236, 216)",
+        "muted": "rgb(168, 155, 122)",
+        "accent": "rgb(226, 176, 64)",
+        "border": "rgb(168, 155, 122)",
+        "installText": "rgb(244, 236, 216)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Kids Crayon",
+      "category": "Bold",
+      "label": "KIDS CRAYON / UI",
+      "description": "Crayon-bright: primary colors, chunky radii, silly big type.",
+      "slug": "/design/bold--kids-crayon",
+      "colors": {
+        "background": "rgb(234, 243, 255)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(27, 42, 107)",
+        "muted": "rgb(106, 117, 184)",
+        "accent": "rgb(255, 180, 0)",
+        "border": "rgb(106, 117, 184)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "20px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Kraft Paper",
+      "category": "Organic",
+      "label": "KRAFT PAPER / UI",
+      "description": "Brown paper, stamp ink, handmade feel.",
+      "slug": "/design/organic--kraft-paper",
+      "colors": {
+        "background": "rgb(230, 214, 184)",
+        "surface": "rgb(241, 227, 198)",
+        "text": "rgb(37, 24, 18)",
+        "muted": "rgb(139, 110, 82)",
+        "accent": "rgb(184, 59, 46)",
+        "border": "rgb(139, 110, 82)",
+        "installText": "rgb(241, 227, 198)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Law Chambers",
+      "category": "Corporate",
+      "label": "LAW CHAMBERS / UI",
+      "description": "Chambers: oxblood, foolscap cream, barrister grey.",
+      "slug": "/design/corporate--law-chambers",
+      "colors": {
+        "background": "rgb(242, 236, 218)",
+        "surface": "rgb(251, 246, 230)",
+        "text": "rgb(26, 14, 12)",
+        "muted": "rgb(120, 102, 94)",
+        "accent": "rgb(122, 16, 32)",
+        "border": "rgb(120, 102, 94)",
+        "installText": "rgb(251, 246, 230)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Linen",
+      "category": "Serif",
+      "label": "LINEN / UI",
+      "description": "Hand-woven textures, tea stains, slow.",
+      "slug": "/design/serif--linen",
+      "colors": {
+        "background": "rgb(238, 231, 217)",
+        "surface": "rgb(247, 241, 227)",
+        "text": "rgb(42, 36, 32)",
+        "muted": "rgb(122, 110, 100)",
+        "accent": "rgb(164, 125, 78)",
+        "border": "rgb(122, 110, 100)",
+        "installText": "rgb(247, 241, 227)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Luxe Commerce",
+      "category": "Minimal",
+      "label": "LUXE COMMERCE / UI",
+      "description": "DTC luxury: porcelain, bone ink, brushed copper.",
+      "slug": "/design/minimal--luxe-commerce",
+      "colors": {
+        "background": "rgb(243, 238, 229)",
+        "surface": "rgb(251, 247, 239)",
+        "text": "rgb(20, 18, 18)",
+        "muted": "rgb(127, 119, 112)",
+        "accent": "rgb(176, 119, 80)",
+        "border": "rgb(127, 119, 112)",
+        "installText": "rgb(251, 247, 239)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Magazine Rouge",
+      "category": "Bold",
+      "label": "MAGAZINE ROUGE / UI",
+      "description": "Fashion-magazine red, ivory spreads, giant display.",
+      "slug": "/design/bold--magazine-rouge",
+      "colors": {
+        "background": "rgb(244, 239, 231)",
+        "surface": "rgb(250, 246, 238)",
+        "text": "rgb(22, 22, 21)",
+        "muted": "rgb(126, 122, 115)",
+        "accent": "rgb(193, 23, 47)",
+        "border": "rgb(126, 122, 115)",
+        "installText": "rgb(250, 246, 238)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Matcha",
+      "category": "Calm",
+      "label": "MATCHA / UI",
+      "description": "Soft green, bamboo, steam.",
+      "slug": "/design/calm--matcha",
+      "colors": {
+        "background": "rgb(236, 232, 219)",
+        "surface": "rgb(247, 243, 231)",
+        "text": "rgb(43, 58, 46)",
+        "muted": "rgb(122, 138, 114)",
+        "accent": "rgb(111, 154, 91)",
+        "border": "rgb(122, 138, 114)",
+        "installText": "rgb(247, 243, 231)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Meditation Zen",
+      "category": "Serif",
+      "label": "MEDITATION ZEN / UI",
+      "description": "Sitting practice: bone paper, breath blue, ink brush.",
+      "slug": "/design/serif--meditation-zen",
+      "colors": {
+        "background": "rgb(244, 239, 227)",
+        "surface": "rgb(251, 246, 234)",
+        "text": "rgb(31, 30, 26)",
+        "muted": "rgb(140, 134, 122)",
+        "accent": "rgb(104, 148, 168)",
+        "border": "rgb(140, 134, 122)",
+        "installText": "rgb(251, 246, 234)"
+      },
+      "radius": "24px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Mint Receipt",
+      "category": "Minimal",
+      "label": "MINT RECEIPT / UI",
+      "description": "Thermal paper, mint stripe, tidy numbers.",
+      "slug": "/design/minimal--mint-receipt",
+      "colors": {
+        "background": "rgb(244, 240, 232)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(30, 36, 30)",
+        "muted": "rgb(108, 122, 111)",
+        "accent": "rgb(47, 182, 125)",
+        "border": "rgb(108, 122, 111)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Motorsport Livery",
+      "category": "Automotive",
+      "label": "MOTORSPORT LIVERY / UI",
+      "description": "F1 livery: carbon black, racing red, pit-lane yellow.",
+      "slug": "/design/automotive--motorsport-livery",
+      "colors": {
+        "background": "rgb(11, 11, 11)",
+        "surface": "rgb(21, 21, 21)",
+        "text": "rgb(242, 242, 242)",
+        "muted": "rgb(140, 140, 140)",
+        "accent": "rgb(225, 6, 0)",
+        "border": "rgb(140, 140, 140)",
+        "installText": "rgb(11, 11, 11)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Museum Plaque",
+      "category": "Minimal",
+      "label": "MUSEUM PLAQUE / UI",
+      "description": "Museum-wall white: didone, hairline rules, placard caps.",
+      "slug": "/design/minimal--museum-plaque",
+      "colors": {
+        "background": "rgb(244, 240, 230)",
+        "surface": "rgb(251, 248, 239)",
+        "text": "rgb(20, 19, 15)",
+        "muted": "rgb(114, 112, 106)",
+        "accent": "rgb(63, 58, 51)",
+        "border": "rgb(114, 112, 106)",
+        "installText": "rgb(251, 248, 239)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Mutual Aid",
+      "category": "Nonprofit",
+      "label": "MUTUAL AID / UI",
+      "description": "Mutual-aid zine: risograph orange, handbill mono, masking tape.",
+      "slug": "/design/nonprofit--mutual-aid",
+      "colors": {
+        "background": "rgb(243, 235, 213)",
+        "surface": "rgb(251, 244, 222)",
+        "text": "rgb(26, 26, 24)",
+        "muted": "rgb(102, 99, 88)",
+        "accent": "rgb(241, 86, 42)",
+        "border": "rgb(102, 99, 88)",
+        "installText": "rgb(251, 244, 222)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "National Park",
+      "category": "Nature",
+      "label": "NATIONAL PARK / UI",
+      "description": "Park signage: pine green, canyon rust, trail ochre.",
+      "slug": "/design/nature--national-park",
+      "colors": {
+        "background": "rgb(28, 46, 32)",
+        "surface": "rgb(37, 61, 43)",
+        "text": "rgb(239, 226, 196)",
+        "muted": "rgb(168, 146, 116)",
+        "accent": "rgb(211, 123, 58)",
+        "border": "rgb(168, 146, 116)",
+        "installText": "rgb(239, 226, 196)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Natural Wine",
+      "category": "Food",
+      "label": "NATURAL WINE / UI",
+      "description": "Pét-nat: fresh lees, paper labels, soft burgundy.",
+      "slug": "/design/food--natural-wine",
+      "colors": {
+        "background": "rgb(242, 234, 218)",
+        "surface": "rgb(250, 243, 227)",
+        "text": "rgb(42, 14, 25)",
+        "muted": "rgb(126, 93, 101)",
+        "accent": "rgb(168, 55, 79)",
+        "border": "rgb(126, 93, 101)",
+        "installText": "rgb(250, 243, 227)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Neobank Mint",
+      "category": "Cool",
+      "label": "NEOBANK MINT / UI",
+      "description": "Fresh mint, generous gutters, calm money.",
+      "slug": "/design/cool--neobank-mint",
+      "colors": {
+        "background": "rgb(243, 250, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(13, 59, 46)",
+        "muted": "rgb(107, 134, 121)",
+        "accent": "rgb(40, 199, 111)",
+        "border": "rgb(107, 134, 121)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Neon Arcade",
+      "category": "Dark",
+      "label": "NEON ARCADE / UI",
+      "description": "Synthwave violet and hot magenta.",
+      "slug": "/design/dark--neon-arcade",
+      "colors": {
+        "background": "rgb(20, 10, 31)",
+        "surface": "rgb(30, 19, 48)",
+        "text": "rgb(246, 238, 255)",
+        "muted": "rgb(139, 122, 165)",
+        "accent": "rgb(255, 61, 202)",
+        "border": "rgb(139, 122, 165)",
+        "installText": "rgb(20, 10, 31)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Newsletter Sunday",
+      "category": "News",
+      "label": "NEWSLETTER SUNDAY / UI",
+      "description": "Long-form Sunday edition: linen paper, reading serif.",
+      "slug": "/design/news--newsletter-sunday",
+      "colors": {
+        "background": "rgb(245, 239, 226)",
+        "surface": "rgb(251, 246, 234)",
+        "text": "rgb(31, 26, 18)",
+        "muted": "rgb(122, 112, 98)",
+        "accent": "rgb(156, 106, 46)",
+        "border": "rgb(122, 112, 98)",
+        "installText": "rgb(251, 246, 234)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Nightclub Strobe",
+      "category": "Bold",
+      "label": "NIGHTCLUB STROBE / UI",
+      "description": "Berlin techno: stark black, strobe white, bass magenta.",
+      "slug": "/design/bold--nightclub-strobe",
+      "colors": {
+        "background": "rgb(0, 0, 0)",
+        "surface": "rgb(10, 10, 10)",
+        "text": "rgb(246, 246, 246)",
+        "muted": "rgb(122, 122, 122)",
+        "accent": "rgb(255, 42, 127)",
+        "border": "rgb(122, 122, 122)",
+        "installText": "rgb(0, 0, 0)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Notion Beige",
+      "category": "Minimal",
+      "label": "NOTION BEIGE / UI",
+      "description": "Workspace-calm: warm beige, soft ink, lots of breathing.",
+      "slug": "/design/minimal--notion-beige",
+      "colors": {
+        "background": "rgb(247, 246, 243)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(25, 25, 24)",
+        "muted": "rgb(140, 135, 125)",
+        "accent": "rgb(194, 107, 91)",
+        "border": "rgb(140, 135, 125)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Observatory",
+      "category": "Dark",
+      "label": "OBSERVATORY / UI",
+      "description": "Deep-sky catalog: nebula black, star cream, redshift.",
+      "slug": "/design/dark--observatory",
+      "colors": {
+        "background": "rgb(6, 7, 12)",
+        "surface": "rgb(13, 15, 23)",
+        "text": "rgb(233, 227, 205)",
+        "muted": "rgb(141, 133, 112)",
+        "accent": "rgb(226, 86, 60)",
+        "border": "rgb(141, 133, 112)",
+        "installText": "rgb(233, 227, 205)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Obsidian",
+      "category": "Dark",
+      "label": "OBSIDIAN / UI",
+      "description": "Volcanic glass, phosphor purple, edge.",
+      "slug": "/design/dark--obsidian",
+      "colors": {
+        "background": "rgb(19, 17, 28)",
+        "surface": "rgb(28, 24, 41)",
+        "text": "rgb(233, 230, 242)",
+        "muted": "rgb(139, 134, 153)",
+        "accent": "rgb(167, 139, 250)",
+        "border": "rgb(139, 134, 153)",
+        "installText": "rgb(19, 17, 28)"
+      },
+      "radius": "10px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Ocean Depth",
+      "category": "Cool",
+      "label": "OCEAN DEPTH / UI",
+      "description": "Midnight blue foundation with a teal pulse.",
+      "slug": "/design/cool--ocean-depth",
+      "colors": {
+        "background": "rgb(11, 26, 40)",
+        "surface": "rgb(20, 38, 55)",
+        "text": "rgb(232, 240, 245)",
+        "muted": "rgb(143, 165, 181)",
+        "accent": "rgb(60, 186, 178)",
+        "border": "rgb(143, 165, 181)",
+        "installText": "rgb(11, 26, 40)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Old Money",
+      "category": "Editorial",
+      "label": "OLD MONEY / UI",
+      "description": "Hunter green, gold leaf, embossed cream.",
+      "slug": "/design/editorial--old-money",
+      "colors": {
+        "background": "rgb(240, 234, 219)",
+        "surface": "rgb(248, 241, 223)",
+        "text": "rgb(31, 58, 44)",
+        "muted": "rgb(123, 130, 113)",
+        "accent": "rgb(184, 145, 85)",
+        "border": "rgb(123, 130, 113)",
+        "installText": "rgb(248, 241, 223)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "OSS Terminal",
+      "category": "Minimal",
+      "label": "OSS TERMINAL / UI",
+      "description": "README-first OSS: bone paper, diff green, PR purple.",
+      "slug": "/design/minimal--oss-terminal",
+      "colors": {
+        "background": "rgb(246, 241, 231)",
+        "surface": "rgb(251, 246, 234)",
+        "text": "rgb(22, 22, 20)",
+        "muted": "rgb(106, 104, 96)",
+        "accent": "rgb(137, 87, 229)",
+        "border": "rgb(106, 104, 96)",
+        "installText": "rgb(251, 246, 234)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Paper White",
+      "category": "Minimal",
+      "label": "PAPER WHITE / UI",
+      "description": "The e-reader palette: ink, cream, nothing else.",
+      "slug": "/design/minimal--paper-white",
+      "colors": {
+        "background": "rgb(245, 239, 225)",
+        "surface": "rgb(250, 245, 232)",
+        "text": "rgb(27, 26, 23)",
+        "muted": "rgb(92, 90, 84)",
+        "accent": "rgb(156, 59, 27)",
+        "border": "rgb(92, 90, 84)",
+        "installText": "rgb(250, 245, 232)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Pastel Candy",
+      "category": "Playful",
+      "label": "PASTEL CANDY / UI",
+      "description": "Marshmallow pink, mint, butter.",
+      "slug": "/design/playful--pastel-candy",
+      "colors": {
+        "background": "rgb(255, 243, 247)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(58, 39, 71)",
+        "muted": "rgb(158, 130, 181)",
+        "accent": "rgb(255, 138, 184)",
+        "border": "rgb(158, 130, 181)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "20px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Payday Punch",
+      "category": "Bold",
+      "label": "PAYDAY PUNCH / UI",
+      "description": "Gen-Z wallet: lime, bubble, confetti payouts.",
+      "slug": "/design/bold--payday-punch",
+      "colors": {
+        "background": "rgb(238, 246, 231)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 31, 18)",
+        "muted": "rgb(97, 114, 100)",
+        "accent": "rgb(196, 244, 66)",
+        "border": "rgb(97, 114, 100)",
+        "installText": "rgb(15, 31, 18)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Pet Pawprint",
+      "category": "Pet",
+      "label": "PET PAWPRINT / UI",
+      "description": "Pet care: biscuit tan, wag blue, squeak yellow.",
+      "slug": "/design/pet--pet-pawprint",
+      "colors": {
+        "background": "rgb(245, 235, 216)",
+        "surface": "rgb(253, 244, 225)",
+        "text": "rgb(42, 30, 20)",
+        "muted": "rgb(141, 122, 99)",
+        "accent": "rgb(255, 183, 43)",
+        "border": "rgb(141, 122, 99)",
+        "installText": "rgb(253, 244, 225)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Pharma Clean",
+      "category": "Cool",
+      "label": "PHARMA CLEAN / UI",
+      "description": "Hospital-white, FDA-blue, sterile hairlines.",
+      "slug": "/design/cool--pharma-clean",
+      "colors": {
+        "background": "rgb(245, 248, 252)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(11, 30, 58)",
+        "muted": "rgb(94, 111, 136)",
+        "accent": "rgb(25, 118, 210)",
+        "border": "rgb(94, 111, 136)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Pixel Quest",
+      "category": "Gameplay",
+      "label": "PIXEL QUEST / UI",
+      "description": "8-bit health bars and CRT ink.",
+      "slug": "/design/gameplay--pixel-quest",
+      "colors": {
+        "background": "rgb(246, 238, 214)",
+        "surface": "rgb(255, 253, 245)",
+        "text": "rgb(30, 30, 46)",
+        "muted": "rgb(122, 122, 153)",
+        "accent": "rgb(244, 196, 48)",
+        "border": "rgb(122, 122, 153)",
+        "installText": "rgb(30, 30, 46)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Podcast Studio",
+      "category": "Audio",
+      "label": "PODCAST STUDIO / UI",
+      "description": "Late-night show: mic amber, felt maroon, velvet curtain.",
+      "slug": "/design/audio--podcast-studio",
+      "colors": {
+        "background": "rgb(58, 26, 30)",
+        "surface": "rgb(74, 35, 40)",
+        "text": "rgb(243, 230, 208)",
+        "muted": "rgb(168, 144, 120)",
+        "accent": "rgb(242, 165, 65)",
+        "border": "rgb(168, 144, 120)",
+        "installText": "rgb(58, 26, 30)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Poker Felt",
+      "category": "Dark",
+      "label": "POKER FELT / UI",
+      "description": "Poker table: felt green, card ivory, chip red.",
+      "slug": "/design/dark--poker-felt",
+      "colors": {
+        "background": "rgb(12, 36, 24)",
+        "surface": "rgb(20, 50, 38)",
+        "text": "rgb(239, 230, 210)",
+        "muted": "rgb(163, 153, 127)",
+        "accent": "rgb(194, 44, 44)",
+        "border": "rgb(163, 153, 127)",
+        "installText": "rgb(239, 230, 210)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Portfolio Studio",
+      "category": "Minimal",
+      "label": "PORTFOLIO STUDIO / UI",
+      "description": "Designer portfolio: off-white, ink, one deliberate accent.",
+      "slug": "/design/minimal--portfolio-studio",
+      "colors": {
+        "background": "rgb(243, 240, 234)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(19, 18, 16)",
+        "muted": "rgb(113, 110, 104)",
+        "accent": "rgb(230, 85, 47)",
+        "border": "rgb(113, 110, 104)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Quantum Lab",
+      "category": "Cool",
+      "label": "QUANTUM LAB / UI",
+      "description": "Physics-lab dark: cold plasma blue, superfluid teal.",
+      "slug": "/design/cool--quantum-lab",
+      "colors": {
+        "background": "rgb(5, 10, 20)",
+        "surface": "rgb(10, 18, 32)",
+        "text": "rgb(230, 243, 255)",
+        "muted": "rgb(106, 138, 168)",
+        "accent": "rgb(79, 214, 224)",
+        "border": "rgb(106, 138, 168)",
+        "installText": "rgb(5, 10, 20)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Rave Poster",
+      "category": "Bold",
+      "label": "RAVE POSTER / UI",
+      "description": "Warehouse flyer: acid yellow, smudge ink, 4am energy.",
+      "slug": "/design/bold--rave-poster",
+      "colors": {
+        "background": "rgb(10, 10, 10)",
+        "surface": "rgb(20, 20, 20)",
+        "text": "rgb(250, 255, 0)",
+        "muted": "rgb(138, 138, 0)",
+        "accent": "rgb(255, 0, 122)",
+        "border": "rgb(138, 138, 0)",
+        "installText": "rgb(10, 10, 10)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Realty Open House",
+      "category": "Architecture",
+      "label": "REALTY OPEN HOUSE / UI",
+      "description": "Open-house listing: linen warm, brass accents.",
+      "slug": "/design/architecture--realty-open-house",
+      "colors": {
+        "background": "rgb(242, 236, 222)",
+        "surface": "rgb(251, 245, 230)",
+        "text": "rgb(30, 25, 20)",
+        "muted": "rgb(138, 126, 108)",
+        "accent": "rgb(165, 125, 70)",
+        "border": "rgb(138, 126, 108)",
+        "installText": "rgb(251, 245, 230)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Record Sleeve",
+      "category": "Music",
+      "label": "RECORD SLEEVE / UI",
+      "description": "1970s gatefold: ochre, umber, liner notes in serif.",
+      "slug": "/design/music--record-sleeve",
+      "colors": {
+        "background": "rgb(244, 233, 209)",
+        "surface": "rgb(251, 242, 222)",
+        "text": "rgb(42, 27, 16)",
+        "muted": "rgb(122, 102, 72)",
+        "accent": "rgb(199, 122, 43)",
+        "border": "rgb(122, 102, 72)",
+        "installText": "rgb(251, 242, 222)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Remote Hub",
+      "category": "Cool",
+      "label": "REMOTE HUB / UI",
+      "description": "Remote-team dashboard: horizon blue, timezone teal.",
+      "slug": "/design/cool--remote-hub",
+      "colors": {
+        "background": "rgb(238, 243, 246)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 34, 51)",
+        "muted": "rgb(90, 110, 130)",
+        "accent": "rgb(41, 175, 180)",
+        "border": "rgb(90, 110, 130)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Risograph",
+      "category": "Bold",
+      "label": "RISOGRAPH / UI",
+      "description": "Misregistered, grainy, joyful.",
+      "slug": "/design/bold--risograph",
+      "colors": {
+        "background": "rgb(242, 238, 228)",
+        "surface": "rgb(250, 246, 236)",
+        "text": "rgb(29, 63, 166)",
+        "muted": "rgb(102, 128, 194)",
+        "accent": "rgb(255, 79, 180)",
+        "border": "rgb(102, 128, 194)",
+        "installText": "rgb(250, 246, 236)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Roblox Bubble",
+      "category": "Bold",
+      "label": "ROBLOX BUBBLE / UI",
+      "description": "Kid-MMO energy: chunky 3D buttons, primary bubbles.",
+      "slug": "/design/bold--roblox-bubble",
+      "colors": {
+        "background": "rgb(230, 244, 255)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(26, 26, 46)",
+        "muted": "rgb(107, 111, 162)",
+        "accent": "rgb(0, 162, 255)",
+        "border": "rgb(107, 111, 162)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Robotics Lab",
+      "category": "Minimal",
+      "label": "ROBOTICS LAB / UI",
+      "description": "Lab-bench white, safety-orange kill switch.",
+      "slug": "/design/minimal--robotics-lab",
+      "colors": {
+        "background": "rgb(242, 243, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(23, 25, 28)",
+        "muted": "rgb(99, 104, 112)",
+        "accent": "rgb(255, 106, 0)",
+        "border": "rgb(99, 104, 112)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Running Kilometer",
+      "category": "Fitness",
+      "label": "RUNNING KILOMETER / UI",
+      "description": "Runner app: track orange, split white, PR green.",
+      "slug": "/design/fitness--running-kilometer",
+      "colors": {
+        "background": "rgb(244, 245, 242)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(21, 24, 24)",
+        "muted": "rgb(106, 114, 114)",
+        "accent": "rgb(255, 94, 26)",
+        "border": "rgb(106, 114, 114)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Scandi Pine",
+      "category": "Retail",
+      "label": "SCANDI PINE / UI",
+      "description": "Scandi interior: birch, oat, one forest pine.",
+      "slug": "/design/retail--scandi-pine",
+      "colors": {
+        "background": "rgb(240, 234, 221)",
+        "surface": "rgb(251, 245, 232)",
+        "text": "rgb(27, 27, 26)",
+        "muted": "rgb(138, 133, 120)",
+        "accent": "rgb(76, 122, 85)",
+        "border": "rgb(138, 133, 120)",
+        "installText": "rgb(251, 245, 232)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Science Journal",
+      "category": "Editorial",
+      "label": "SCIENCE JOURNAL / UI",
+      "description": "Scientific-journal: paper-white column, abstract-blue plates.",
+      "slug": "/design/editorial--science-journal",
+      "colors": {
+        "background": "rgb(250, 249, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(18, 18, 19)",
+        "muted": "rgb(96, 99, 104)",
+        "accent": "rgb(26, 75, 140)",
+        "border": "rgb(96, 99, 104)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "3px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Skate Deck",
+      "category": "Bold",
+      "label": "SKATE DECK / UI",
+      "description": "Skate-deck graphic: griptape black, neon green, spray pink.",
+      "slug": "/design/bold--skate-deck",
+      "colors": {
+        "background": "rgb(10, 10, 10)",
+        "surface": "rgb(20, 20, 20)",
+        "text": "rgb(240, 240, 238)",
+        "muted": "rgb(140, 140, 140)",
+        "accent": "rgb(198, 248, 0)",
+        "border": "rgb(140, 140, 140)",
+        "installText": "rgb(10, 10, 10)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Ski Alpine",
+      "category": "Bold",
+      "label": "SKI ALPINE / UI",
+      "description": "Alpine signage: glacier blue, piste red, powder white.",
+      "slug": "/design/bold--ski-alpine",
+      "colors": {
+        "background": "rgb(240, 245, 250)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 36, 54)",
+        "muted": "rgb(94, 115, 134)",
+        "accent": "rgb(230, 57, 70)",
+        "border": "rgb(94, 115, 134)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Skincare Matte",
+      "category": "Beauty",
+      "label": "SKINCARE MATTE / UI",
+      "description": "Matte bottle minimal: oat, stone grey, graphite label.",
+      "slug": "/design/beauty--skincare-matte",
+      "colors": {
+        "background": "rgb(236, 230, 217)",
+        "surface": "rgb(246, 241, 228)",
+        "text": "rgb(27, 25, 23)",
+        "muted": "rgb(140, 132, 122)",
+        "accent": "rgb(62, 56, 50)",
+        "border": "rgb(140, 132, 122)",
+        "installText": "rgb(246, 241, 228)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Social Dusk",
+      "category": "Dark",
+      "label": "SOCIAL DUSK / UI",
+      "description": "Late-night feed: indigo dusk, lilac strokes, amber taps.",
+      "slug": "/design/dark--social-dusk",
+      "colors": {
+        "background": "rgb(14, 11, 27)",
+        "surface": "rgb(24, 19, 54)",
+        "text": "rgb(236, 233, 255)",
+        "muted": "rgb(131, 124, 176)",
+        "accent": "rgb(255, 178, 87)",
+        "border": "rgb(131, 124, 176)",
+        "installText": "rgb(14, 11, 27)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Solarpunk",
+      "category": "Climate",
+      "label": "SOLARPUNK / UI",
+      "description": "Optimistic eco: plant green, sun yellow, soft terracotta.",
+      "slug": "/design/climate--solarpunk",
+      "colors": {
+        "background": "rgb(240, 234, 210)",
+        "surface": "rgb(247, 240, 216)",
+        "text": "rgb(20, 48, 30)",
+        "muted": "rgb(95, 122, 104)",
+        "accent": "rgb(244, 196, 48)",
+        "border": "rgb(95, 122, 104)",
+        "installText": "rgb(20, 48, 30)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Spa Onsen",
+      "category": "Serif",
+      "label": "SPA ONSEN / UI",
+      "description": "Onsen: wet-stone grey, steam-rose, cedar accent.",
+      "slug": "/design/serif--spa-onsen",
+      "colors": {
+        "background": "rgb(236, 228, 222)",
+        "surface": "rgb(245, 238, 231)",
+        "text": "rgb(44, 40, 40)",
+        "muted": "rgb(147, 139, 133)",
+        "accent": "rgb(216, 168, 127)",
+        "border": "rgb(147, 139, 133)",
+        "installText": "rgb(245, 238, 231)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Space Mission",
+      "category": "Dark",
+      "label": "SPACE MISSION / UI",
+      "description": "Mission-control amber on black. Telemetry forever.",
+      "slug": "/design/dark--space-mission",
+      "colors": {
+        "background": "rgb(5, 5, 5)",
+        "surface": "rgb(13, 11, 8)",
+        "text": "rgb(255, 179, 71)",
+        "muted": "rgb(138, 106, 56)",
+        "accent": "rgb(255, 107, 53)",
+        "border": "rgb(138, 106, 56)",
+        "installText": "rgb(5, 5, 5)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Spatial Glass",
+      "category": "Cool",
+      "label": "SPATIAL GLASS / UI",
+      "description": "AR OS: frosted lens, aurora gradient, depth hairline.",
+      "slug": "/design/cool--spatial-glass",
+      "colors": {
+        "background": "rgb(16, 19, 27)",
+        "surface": "rgb(26, 31, 44)",
+        "text": "rgb(244, 246, 251)",
+        "muted": "rgb(143, 153, 176)",
+        "accent": "rgb(127, 230, 214)",
+        "border": "rgb(143, 153, 176)",
+        "installText": "rgb(16, 19, 27)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Speakeasy",
+      "category": "Dark",
+      "label": "SPEAKEASY / UI",
+      "description": "Hidden bar: velvet black, candle amber, brass knob.",
+      "slug": "/design/dark--speakeasy",
+      "colors": {
+        "background": "rgb(14, 11, 8)",
+        "surface": "rgb(23, 18, 12)",
+        "text": "rgb(234, 217, 180)",
+        "muted": "rgb(142, 124, 92)",
+        "accent": "rgb(203, 139, 58)",
+        "border": "rgb(142, 124, 92)",
+        "installText": "rgb(234, 217, 180)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Speedrun Clock",
+      "category": "Dark",
+      "label": "SPEEDRUN CLOCK / UI",
+      "description": "Split timer aesthetic: green splits, red losses, mono forever.",
+      "slug": "/design/dark--speedrun-clock",
+      "colors": {
+        "background": "rgb(10, 10, 10)",
+        "surface": "rgb(18, 18, 18)",
+        "text": "rgb(232, 232, 232)",
+        "muted": "rgb(136, 136, 136)",
+        "accent": "rgb(34, 224, 154)",
+        "border": "rgb(136, 136, 136)",
+        "installText": "rgb(10, 10, 10)"
+      },
+      "radius": "3px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Sports HUD",
+      "category": "Bold",
+      "label": "SPORTS HUD / UI",
+      "description": "Stadium energy. Angled badges, neon scoreline.",
+      "slug": "/design/bold--sports-hud",
+      "colors": {
+        "background": "rgb(241, 243, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(14, 16, 22)",
+        "muted": "rgb(91, 98, 112)",
+        "accent": "rgb(0, 230, 118)",
+        "border": "rgb(91, 98, 112)",
+        "installText": "rgb(14, 16, 22)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Storybook Paper",
+      "category": "Kids",
+      "label": "STORYBOOK PAPER / UI",
+      "description": "Children's storybook: butter paper, crayon scribbles.",
+      "slug": "/design/kids--storybook-paper",
+      "colors": {
+        "background": "rgb(255, 243, 207)",
+        "surface": "rgb(255, 249, 224)",
+        "text": "rgb(46, 30, 15)",
+        "muted": "rgb(156, 136, 112)",
+        "accent": "rgb(240, 90, 90)",
+        "border": "rgb(156, 136, 112)",
+        "installText": "rgb(46, 30, 15)"
+      },
+      "radius": "14px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Street Food",
+      "category": "Bold",
+      "label": "STREET FOOD / UI",
+      "description": "Night-market neon on butcher paper.",
+      "slug": "/design/bold--street-food",
+      "colors": {
+        "background": "rgb(245, 233, 207)",
+        "surface": "rgb(252, 243, 220)",
+        "text": "rgb(26, 15, 5)",
+        "muted": "rgb(122, 106, 84)",
+        "accent": "rgb(242, 60, 60)",
+        "border": "rgb(122, 106, 84)",
+        "installText": "rgb(252, 243, 220)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Streetwear Block",
+      "category": "Bold",
+      "label": "STREETWEAR BLOCK / UI",
+      "description": "Supreme-energy: box logo, off-white, siren red.",
+      "slug": "/design/bold--streetwear-block",
+      "colors": {
+        "background": "rgb(238, 235, 226)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(10, 10, 10)",
+        "muted": "rgb(107, 107, 107)",
+        "accent": "rgb(224, 32, 32)",
+        "border": "rgb(107, 107, 107)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Stripe Gradient",
+      "category": "Cool",
+      "label": "STRIPE GRADIENT / UI",
+      "description": "Deep navy, sky, a whisper of violet.",
+      "slug": "/design/cool--stripe-gradient",
+      "colors": {
+        "background": "rgb(246, 249, 252)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(10, 37, 64)",
+        "muted": "rgb(66, 84, 102)",
+        "accent": "rgb(99, 91, 255)",
+        "border": "rgb(66, 84, 102)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Sunset Magazine",
+      "category": "Editorial",
+      "label": "SUNSET MAGAZINE / UI",
+      "description": "Dusk over the pacific — peach, plum, bone.",
+      "slug": "/design/editorial--sunset-magazine",
+      "colors": {
+        "background": "rgb(248, 238, 227)",
+        "surface": "rgb(255, 248, 237)",
+        "text": "rgb(46, 31, 46)",
+        "muted": "rgb(138, 106, 125)",
+        "accent": "rgb(244, 162, 123)",
+        "border": "rgb(138, 106, 125)",
+        "installText": "rgb(255, 248, 237)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Surf Daybreak",
+      "category": "Soft",
+      "label": "SURF DAYBREAK / UI",
+      "description": "Surf forecast: ocean teal, dawn coral, seafoam.",
+      "slug": "/design/soft--surf-daybreak",
+      "colors": {
+        "background": "rgb(223, 241, 236)",
+        "surface": "rgb(243, 250, 247)",
+        "text": "rgb(12, 51, 64)",
+        "muted": "rgb(90, 136, 148)",
+        "accent": "rgb(255, 122, 92)",
+        "border": "rgb(90, 136, 148)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Swiss Grid",
+      "category": "Corporate",
+      "label": "SWISS GRID / UI",
+      "description": "Helvetica, a 12-column grid, and a single red.",
+      "slug": "/design/corporate--swiss-grid",
+      "colors": {
+        "background": "rgb(245, 245, 245)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(0, 0, 0)",
+        "muted": "rgb(85, 85, 85)",
+        "accent": "rgb(220, 38, 38)",
+        "border": "rgb(85, 85, 85)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tailwind Base",
+      "category": "Cool",
+      "label": "TAILWIND BASE / UI",
+      "description": "Safe, shipping-ready, infinitely remixable.",
+      "slug": "/design/cool--tailwind-base",
+      "colors": {
+        "background": "rgb(241, 245, 249)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 23, 42)",
+        "muted": "rgb(100, 116, 139)",
+        "accent": "rgb(79, 70, 229)",
+        "border": "rgb(100, 116, 139)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tarot Deck",
+      "category": "Dark",
+      "label": "TAROT DECK / UI",
+      "description": "Rider-Waite vibes: midnight blue, gilt edges, mystic sigils.",
+      "slug": "/design/dark--tarot-deck",
+      "colors": {
+        "background": "rgb(12, 20, 51)",
+        "surface": "rgb(21, 32, 74)",
+        "text": "rgb(243, 234, 208)",
+        "muted": "rgb(168, 151, 117)",
+        "accent": "rgb(229, 184, 92)",
+        "border": "rgb(168, 151, 117)",
+        "installText": "rgb(243, 234, 208)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tattoo Studio",
+      "category": "Bold",
+      "label": "TATTOO STUDIO / UI",
+      "description": "Tattoo parlor: ink black, stencil blue, flash-sheet red.",
+      "slug": "/design/bold--tattoo-studio",
+      "colors": {
+        "background": "rgb(10, 10, 10)",
+        "surface": "rgb(20, 20, 20)",
+        "text": "rgb(238, 234, 224)",
+        "muted": "rgb(125, 122, 114)",
+        "accent": "rgb(220, 20, 60)",
+        "border": "rgb(125, 122, 114)",
+        "installText": "rgb(10, 10, 10)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tavern Tabletop",
+      "category": "Gameplay",
+      "label": "TAVERN TABLETOP / UI",
+      "description": "Tabletop tavern: parchment map, wax-seal red, inked routes.",
+      "slug": "/design/gameplay--board-game-tavern",
+      "colors": {
+        "background": "rgb(240, 225, 198)",
+        "surface": "rgb(248, 234, 204)",
+        "text": "rgb(34, 22, 14)",
+        "muted": "rgb(138, 118, 92)",
+        "accent": "rgb(179, 42, 42)",
+        "border": "rgb(138, 118, 92)",
+        "installText": "rgb(248, 234, 204)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tea House",
+      "category": "Food",
+      "label": "TEA HOUSE / UI",
+      "description": "Matcha ceremony: rice paper, bamboo green, clay red.",
+      "slug": "/design/food--tea-house",
+      "colors": {
+        "background": "rgb(240, 235, 218)",
+        "surface": "rgb(248, 243, 225)",
+        "text": "rgb(30, 32, 22)",
+        "muted": "rgb(123, 128, 105)",
+        "accent": "rgb(176, 54, 27)",
+        "border": "rgb(123, 128, 105)",
+        "installText": "rgb(248, 243, 225)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Terminal",
+      "category": "Dark",
+      "label": "TERMINAL / UI",
+      "description": "Phosphor green on deep black. Fast, loud, honest.",
+      "slug": "/design/dark--terminal",
+      "colors": {
+        "background": "rgb(13, 17, 23)",
+        "surface": "rgb(22, 27, 34)",
+        "text": "rgb(230, 237, 243)",
+        "muted": "rgb(139, 148, 158)",
+        "accent": "rgb(63, 185, 80)",
+        "border": "rgb(139, 148, 158)",
+        "installText": "rgb(13, 17, 23)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Terracotta",
+      "category": "Editorial",
+      "label": "TERRACOTTA / UI",
+      "description": "Sun-baked clay, ink, and weathered paper.",
+      "slug": "/design/editorial--terracotta",
+      "colors": {
+        "background": "rgb(243, 232, 216)",
+        "surface": "rgb(251, 244, 231)",
+        "text": "rgb(43, 29, 20)",
+        "muted": "rgb(139, 111, 91)",
+        "accent": "rgb(197, 106, 60)",
+        "border": "rgb(139, 111, 91)",
+        "installText": "rgb(251, 244, 231)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Theatre Playbill",
+      "category": "Bold",
+      "label": "THEATRE PLAYBILL / UI",
+      "description": "Playbill cream: stage black, curtain red, footlight gold.",
+      "slug": "/design/bold--theatre-playbill",
+      "colors": {
+        "background": "rgb(243, 237, 220)",
+        "surface": "rgb(250, 243, 223)",
+        "text": "rgb(27, 22, 19)",
+        "muted": "rgb(122, 113, 101)",
+        "accent": "rgb(177, 31, 42)",
+        "border": "rgb(122, 113, 101)",
+        "installText": "rgb(250, 243, 223)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Therapy Room",
+      "category": "Healthcare",
+      "label": "THERAPY ROOM / UI",
+      "description": "Mental-health app: clay, breath-blue, hush.",
+      "slug": "/design/healthcare--therapy-room",
+      "colors": {
+        "background": "rgb(244, 236, 225)",
+        "surface": "rgb(251, 245, 234)",
+        "text": "rgb(47, 40, 36)",
+        "muted": "rgb(163, 151, 140)",
+        "accent": "rgb(127, 174, 199)",
+        "border": "rgb(163, 151, 140)",
+        "installText": "rgb(251, 245, 234)"
+      },
+      "radius": "20px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Tokyo Midnight",
+      "category": "Bold",
+      "label": "TOKYO MIDNIGHT / UI",
+      "description": "Rain-slick streets, neon reflections, focused.",
+      "slug": "/design/bold--tokyo-midnight",
+      "colors": {
+        "background": "rgb(11, 14, 26)",
+        "surface": "rgb(20, 24, 40)",
+        "text": "rgb(242, 242, 245)",
+        "muted": "rgb(122, 134, 153)",
+        "accent": "rgb(255, 77, 126)",
+        "border": "rgb(122, 134, 153)",
+        "installText": "rgb(11, 14, 26)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Transit Map",
+      "category": "Bold",
+      "label": "TRANSIT MAP / UI",
+      "description": "Tokyo metro: primary colored lines, precise signage.",
+      "slug": "/design/bold--transit-map",
+      "colors": {
+        "background": "rgb(248, 248, 248)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(18, 18, 18)",
+        "muted": "rgb(102, 102, 102)",
+        "accent": "rgb(0, 100, 210)",
+        "border": "rgb(102, 102, 102)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Typewriter",
+      "category": "Editorial",
+      "label": "TYPEWRITER / UI",
+      "description": "Ribbon black on manila, nothing else.",
+      "slug": "/design/editorial--typewriter",
+      "colors": {
+        "background": "rgb(237, 223, 182)",
+        "surface": "rgb(245, 234, 200)",
+        "text": "rgb(26, 15, 0)",
+        "muted": "rgb(107, 91, 62)",
+        "accent": "rgb(168, 39, 30)",
+        "border": "rgb(107, 91, 62)",
+        "installText": "rgb(245, 234, 200)"
+      },
+      "radius": "0px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Vercel Ink",
+      "category": "Dark",
+      "label": "VERCEL INK / UI",
+      "description": "Surgical black, surgical white, sharp geometry.",
+      "slug": "/design/dark--vercel-ink",
+      "colors": {
+        "background": "rgb(0, 0, 0)",
+        "surface": "rgb(10, 10, 10)",
+        "text": "rgb(237, 237, 237)",
+        "muted": "rgb(143, 143, 143)",
+        "accent": "rgb(0, 112, 243)",
+        "border": "rgb(143, 143, 143)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "8px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Wealth Noir",
+      "category": "Dark",
+      "label": "WEALTH NOIR / UI",
+      "description": "Private-banking black, champagne letterforms.",
+      "slug": "/design/dark--wealth-noir",
+      "colors": {
+        "background": "rgb(10, 10, 9)",
+        "surface": "rgb(19, 18, 17)",
+        "text": "rgb(233, 227, 212)",
+        "muted": "rgb(140, 133, 117)",
+        "accent": "rgb(201, 161, 90)",
+        "border": "rgb(140, 133, 117)",
+        "installText": "rgb(10, 10, 9)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Weather Stratus",
+      "category": "Cool",
+      "label": "WEATHER STRATUS / UI",
+      "description": "Forecast app: stratus grey, rain blue, storm amber.",
+      "slug": "/design/cool--weather-stratus",
+      "colors": {
+        "background": "rgb(237, 241, 247)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 22, 32)",
+        "muted": "rgb(97, 115, 140)",
+        "accent": "rgb(242, 160, 61)",
+        "border": "rgb(97, 115, 140)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "12px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Wellness Coral",
+      "category": "Healthcare",
+      "label": "WELLNESS CORAL / UI",
+      "description": "Sunrise coral, cotton grey, breathwork pastels.",
+      "slug": "/design/healthcare--wellness-coral",
+      "colors": {
+        "background": "rgb(253, 246, 243)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(43, 39, 36)",
+        "muted": "rgb(161, 152, 144)",
+        "accent": "rgb(255, 110, 92)",
+        "border": "rgb(161, 152, 144)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Whisky Peat",
+      "category": "Dark",
+      "label": "WHISKY PEAT / UI",
+      "description": "Peated scotch: smoke black, barrel oak, burnt orange.",
+      "slug": "/design/dark--whisky-peat",
+      "colors": {
+        "background": "rgb(15, 11, 8)",
+        "surface": "rgb(26, 19, 14)",
+        "text": "rgb(240, 230, 209)",
+        "muted": "rgb(168, 149, 116)",
+        "accent": "rgb(209, 122, 44)",
+        "border": "rgb(168, 149, 116)",
+        "installText": "rgb(240, 230, 209)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Wine Country",
+      "category": "Editorial",
+      "label": "WINE COUNTRY / UI",
+      "description": "Bordeaux, cream, long golden afternoons.",
+      "slug": "/design/editorial--wine-country",
+      "colors": {
+        "background": "rgb(244, 235, 220)",
+        "surface": "rgb(250, 243, 228)",
+        "text": "rgb(59, 21, 32)",
+        "muted": "rgb(139, 94, 106)",
+        "accent": "rgb(184, 147, 95)",
+        "border": "rgb(139, 94, 106)",
+        "installText": "rgb(250, 243, 228)"
+      },
+      "radius": "4px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Y2K Chrome",
+      "category": "Bold",
+      "label": "Y2K CHROME / UI",
+      "description": "Frutiger Aero meets the CD-ROM menu.",
+      "slug": "/design/bold--y2k-chrome",
+      "colors": {
+        "background": "rgb(224, 242, 254)",
+        "surface": "rgb(255, 255, 255)",
+        "text": "rgb(15, 23, 42)",
+        "muted": "rgb(96, 165, 250)",
+        "accent": "rgb(6, 182, 212)",
+        "border": "rgb(96, 165, 250)",
+        "installText": "rgb(255, 255, 255)"
+      },
+      "radius": "18px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Yacht Club",
+      "category": "Hospitality",
+      "label": "YACHT CLUB / UI",
+      "description": "Regatta: navy, rope cream, signal flag red.",
+      "slug": "/design/hospitality--yacht-club",
+      "colors": {
+        "background": "rgb(11, 36, 64)",
+        "surface": "rgb(20, 47, 84)",
+        "text": "rgb(247, 240, 222)",
+        "muted": "rgb(180, 168, 138)",
+        "accent": "rgb(196, 44, 44)",
+        "border": "rgb(180, 168, 138)",
+        "installText": "rgb(247, 240, 222)"
+      },
+      "radius": "3px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Zed Dev",
+      "category": "Dark",
+      "label": "ZED DEV / UI",
+      "description": "Editor-dark, warmer than pitch, glyph-sharp.",
+      "slug": "/design/dark--zed-dev",
+      "colors": {
+        "background": "rgb(22, 22, 20)",
+        "surface": "rgb(29, 29, 27)",
+        "text": "rgb(229, 228, 223)",
+        "muted": "rgb(123, 122, 116)",
+        "accent": "rgb(95, 181, 214)",
+        "border": "rgb(123, 122, 116)",
+        "installText": "rgb(22, 22, 20)"
+      },
+      "radius": "6px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    },
+    {
+      "name": "Zine Risograph",
+      "category": "Bold",
+      "label": "ZINE RISOGRAPH / UI",
+      "description": "Riso-printed zines: fluoro pink on pulp paper.",
+      "slug": "/design/bold--zine-risograph",
+      "colors": {
+        "background": "rgb(240, 232, 214)",
+        "surface": "rgb(248, 241, 223)",
+        "text": "rgb(24, 24, 24)",
+        "muted": "rgb(102, 102, 102)",
+        "accent": "rgb(255, 72, 176)",
+        "border": "rgb(102, 102, 102)",
+        "installText": "rgb(248, 241, 223)"
+      },
+      "radius": "2px",
+      "shadow": "rgba(0, 0, 0, 0.26) 0px 8px 24px 0px"
+    }
+  ]
+}
