@@ -21,7 +21,7 @@ export function DesignCard({ design, itemClassName }: DesignCardProps) {
         <div className="h-[186px] sm:h-[214px]">
           <div className="design-card-preview flex h-full flex-col overflow-hidden border p-3 sm:p-3.5">
             <div className="flex items-center justify-between text-[10px] text-[var(--card-muted)]">
-              <span className="inline-block h-5 w-11 rounded-md border border-[var(--card-border)] bg-[var(--card-muted)]" />
+              <span className="inline-block h-5 w-11 rounded-md border border-[var(--card-border)] bg-[var(--card-muted-surface)]" />
               <span className="text-[9px] tracking-[0.08em] uppercase">{design.category}</span>
             </div>
 
@@ -52,7 +52,7 @@ export function DesignCard({ design, itemClassName }: DesignCardProps) {
               </p>
               <div className="flex gap-1.5">
                 <span className="h-2.5 w-2.5 rounded-sm bg-[var(--card-accent)]" />
-                <span className="h-2.5 w-2.5 rounded-sm bg-[var(--card-muted)]" />
+                <span className="h-2.5 w-2.5 rounded-sm bg-[var(--card-muted-surface)]" />
               </div>
             </div>
 
@@ -62,7 +62,7 @@ export function DesignCard({ design, itemClassName }: DesignCardProps) {
               </p>
               <div className="flex gap-1.5">
                 <span className="h-2 w-2 rounded-full bg-[var(--card-accent)]" />
-                <span className="h-2 w-2 rounded-full bg-[var(--card-muted)]" />
+                <span className="h-2 w-2 rounded-full bg-[var(--card-muted-surface)]" />
               </div>
             </div>
           </div>
@@ -84,17 +84,17 @@ export function DesignCard({ design, itemClassName }: DesignCardProps) {
         </p>
 
         <div className="mt-2 flex items-center justify-between sm:hidden">
-          <span className="rounded-full border border-[var(--card-border)] bg-[var(--card-muted)] px-2 py-1 text-[9px] tracking-[0.08em] uppercase">
+          <span className="rounded-full border border-[var(--card-border)] bg-[var(--card-muted-surface)] px-2 py-1 text-[9px] tracking-[0.08em] uppercase">
             {design.category.toLowerCase()}
           </span>
           <div className="flex gap-1.5">
             <span className="h-2 w-2 rounded-full bg-[var(--card-accent)]" />
-            <span className="h-2 w-2 rounded-full bg-[var(--card-muted)]" />
+            <span className="h-2 w-2 rounded-full bg-[var(--card-muted-surface)]" />
           </div>
         </div>
 
         <div className="mt-1 hidden sm:mt-2 sm:block">
-          <span className="rounded-full border border-[var(--card-border)] bg-[var(--card-muted)] px-2 py-1 text-[9px] tracking-[0.08em] uppercase">
+          <span className="rounded-full border border-[var(--card-border)] bg-[var(--card-muted-surface)] px-2 py-1 text-[9px] tracking-[0.08em] uppercase">
             {design.category.toLowerCase()}
           </span>
         </div>

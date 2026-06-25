@@ -3,6 +3,7 @@ export interface DesignThemeColors {
   surface: string;
   text: string;
   muted: string;
+  mutedSurface?: string;
   accent: string;
   border: string;
   installText: string;
@@ -23,4 +24,3 @@ export interface DesignCatalog {
   categories: string[];
   designs: DesignSystem[];
 }
-

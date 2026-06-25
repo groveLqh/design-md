@@ -184,6 +184,11 @@ export function buildDesignFromMarkdown(markdown, options = {}) {
     resolveToken(colors["border-strong"], source),
     "#6B7280",
   );
+  const mutedSurface = firstString(
+    resolveToken(colors["muted-surface"], source),
+    resolveToken(colors["surface-muted"], source),
+    undefined,
+  );
   const accent = firstString(
     resolveToken(colors.primary, source),
     resolveToken(colors.secondary, source),
@@ -216,6 +221,7 @@ export function buildDesignFromMarkdown(markdown, options = {}) {
       surface,
       text,
       muted,
+      ...(mutedSurface ? { mutedSurface } : {}),
       accent,
       border,
       installText,
@@ -253,9 +259,12 @@ export function designCssRules(designs) {
   for (const design of designs) {
     const id = cssEscapeValue(designId(design.slug));
     const { colors } = design;
+    const mutedSurfaceTokens = colors.mutedSurface
+      ? ` --card-muted-surface: ${colors.mutedSurface}; --card-muted-surface-text: ${colors.accent};`
+      : "";
 
     lines.push(
-      `[data-design="${id}"] { --card-bg: ${colors.background}; --card-surface: ${colors.surface}; --card-text: ${colors.text}; --card-muted: ${colors.muted}; --card-accent: ${colors.accent}; --card-border: ${colors.border}; --card-install-text: ${colors.installText}; --card-radius: ${design.radius}; --card-shadow: ${design.shadow}; }`,
+      `[data-design="${id}"] { --card-bg: ${colors.background}; --card-surface: ${colors.surface}; --card-text: ${colors.text}; --card-muted: ${colors.muted};${mutedSurfaceTokens} --card-accent: ${colors.accent}; --card-border: ${colors.border}; --card-install-text: ${colors.installText}; --card-radius: ${design.radius}; --card-shadow: ${design.shadow}; }`,
     );
   }
 

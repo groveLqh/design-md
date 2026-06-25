@@ -1389,6 +1389,7 @@
         "surface": "rgb(250, 249, 245)",
         "text": "rgb(20, 20, 19)",
         "muted": "rgb(107, 106, 100)",
+        "mutedSurface": "rgb(228, 236, 245)",
         "accent": "rgb(27, 54, 93)",
         "border": "rgb(232, 230, 220)",
         "installText": "rgb(250, 249, 245)"

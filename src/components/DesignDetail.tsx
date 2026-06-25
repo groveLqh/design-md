@@ -9,7 +9,7 @@ interface DesignDetailProps {
 }
 
 interface TokenItem {
-  key: "bg" | "surface" | "surfaceAlt" | "accent" | "text" | "muted" | "border";
+  key: "bg" | "surface" | "mutedSurface" | "accent" | "text" | "muted" | "border";
   label: string;
   value: string;
 }
@@ -138,7 +138,11 @@ function colorTokens(design: DesignSystem): TokenItem[] {
   return [
     { key: "bg", label: "bg", value: rgbToHex(design.colors.background) },
     { key: "surface", label: "surface", value: rgbToHex(design.colors.surface) },
-    { key: "surfaceAlt", label: "surfaceAlt", value: rgbToHex(design.colors.muted) },
+    {
+      key: "mutedSurface",
+      label: "mutedSurface",
+      value: rgbToHex(design.colors.mutedSurface ?? design.colors.muted),
+    },
     { key: "accent", label: "accent", value: rgbToHex(design.colors.accent) },
     { key: "text", label: "text", value: rgbToHex(design.colors.text) },
     { key: "muted", label: "muted", value: rgbToHex(design.colors.muted) },
@@ -250,8 +254,8 @@ export function DesignDetail({ design }: DesignDetailProps) {
           <div className="design-detail-panel p-5">
             <h2 className="text-xl font-bold">Get early access</h2>
             <div className="mt-5 grid gap-3 md:grid-cols-[1fr_1fr_auto]">
-              <input className="rounded-md bg-[var(--card-muted)] px-4 py-3 text-sm font-bold text-[var(--card-text)] placeholder:text-[var(--card-surface)]" placeholder="Your name" />
-              <input className="rounded-md bg-[var(--card-muted)] px-4 py-3 text-sm font-bold text-[var(--card-text)] placeholder:text-[var(--card-surface)]" placeholder="Work email" />
+              <input className="rounded-md bg-[var(--card-muted-surface)] px-4 py-3 text-sm font-bold text-[var(--card-text)] placeholder:text-[var(--card-muted)]" placeholder="Your name" />
+              <input className="rounded-md bg-[var(--card-muted-surface)] px-4 py-3 text-sm font-bold text-[var(--card-text)] placeholder:text-[var(--card-muted)]" placeholder="Work email" />
               <button type="button" className="rounded-md bg-[var(--card-accent)] px-5 py-3 text-sm font-bold text-[var(--card-install-text)]">
                 Join waitlist
               </button>
@@ -328,7 +332,7 @@ export function DesignDetail({ design }: DesignDetailProps) {
               <h3 className="font-bold">Tags</h3>
               <div className="mt-4 flex flex-wrap gap-2">
                 {tags.map((tag) => (
-                  <span key={tag} className="rounded-full bg-[var(--card-muted)] px-3 py-1 text-xs font-bold text-[var(--card-surface)]">
+                  <span key={tag} className="rounded-full bg-[var(--card-muted-surface)] px-3 py-1 text-xs font-bold text-[var(--card-muted-surface-text)]">
                     {tag}
                   </span>
                 ))}
@@ -346,7 +350,7 @@ export function DesignDetail({ design }: DesignDetailProps) {
           </div>
           <div className="max-h-[380px] overflow-auto pr-1">
             {resources.map((resource) => (
-              <div key={resource.slug} className="mb-3 grid gap-3 rounded-md border border-[var(--card-border)] bg-[var(--card-muted)] p-4 text-[var(--card-text)] md:grid-cols-[1fr_auto] md:items-center">
+              <div key={resource.slug} className="mb-3 grid gap-3 rounded-md border border-[var(--card-border)] bg-[var(--card-muted-surface)] p-4 text-[var(--card-text)] md:grid-cols-[1fr_auto] md:items-center">
                 <div className="min-w-0">
                   <h3 className="font-bold">{resource.name}</h3>
                   <p className="mt-2 truncate text-sm font-semibold">{markdownPath(resource)}</p>

@@ -27,6 +27,13 @@ assert.ok(
   data.designs.some((design) => design.slug === "/design/saas--context-dev"),
   "Context Dev sample should be present"
 );
+const kami = data.designs.find((design) => design.slug === "/design/print--kami");
+assert.ok(kami, "Kami sample should be present");
+assert.equal(
+  kami.colors.mutedSurface,
+  "rgb(228, 236, 245)",
+  "Kami should preserve its pale ink-blue tag surface"
+);
 assert.ok(
   data.designs.every((design) => design.name && design.slug && design.description),
   "each design should have display content"
